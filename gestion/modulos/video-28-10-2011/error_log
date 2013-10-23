@@ -1,0 +1,580 @@
+[26-Jul-2011 17:13:38] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 38
+[26-Jul-2011 17:13:38] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 40
+[26-Jul-2011 17:13:38] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 140
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 141
+[26-Jul-2011 17:13:39] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[26-Jul-2011 17:13:39] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 153
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 154
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  idProfileVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 155
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  countryId in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 156
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  sex in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 157
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  nameVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 158
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  tagsVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 159
+[26-Jul-2011 17:13:39] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 163
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 38
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 40
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 140
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 141
+[27-Jul-2011 09:12:59] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[27-Jul-2011 09:12:59] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 153
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 154
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  idProfileVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 155
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  countryId in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 156
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  sex in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 157
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  nameVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 158
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  tagsVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 159
+[27-Jul-2011 09:12:59] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 163
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 38
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 40
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 140
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 141
+[27-Jul-2011 09:45:23] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[27-Jul-2011 09:45:23] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 153
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 154
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  idProfileVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 155
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  countryId in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 156
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  sex in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 157
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  nameVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 158
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  tagsVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 159
+[27-Jul-2011 09:45:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 163
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 38
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 40
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 140
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 141
+[27-Jul-2011 09:52:19] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[27-Jul-2011 09:52:19] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 153
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 154
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  idProfileVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 155
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  countryId in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 156
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  sex in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 157
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  nameVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 158
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  tagsVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 159
+[27-Jul-2011 09:52:19] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 163
+[27-Jul-2011 10:13:30] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 38
+[27-Jul-2011 10:13:30] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 40
+[27-Jul-2011 10:13:30] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 140
+[27-Jul-2011 10:13:31] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 141
+[27-Jul-2011 10:13:31] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[27-Jul-2011 10:13:36] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  idUserVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 153
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 154
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  idProfileVisiting in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 155
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  countryId in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 156
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  sex in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 157
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  nameVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 158
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  tagsVideo in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 159
+[27-Jul-2011 10:13:36] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 163
+[28-Jul-2011 13:19:35] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[28-Jul-2011 13:19:35] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[28-Jul-2011 13:19:35] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[29-Jul-2011 10:09:22] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[29-Jul-2011 10:09:23] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[29-Jul-2011 10:09:23] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[29-Jul-2011 17:45:50] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'videos/3295c76acbf4caaed33c36b1b5fc2cb1102IMG_0381.MOV' did not exist to delete.' in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/soccermashTest3/gestion/modulos/video/delVideo.php(22): CF_Container->delete_object('3295c76acbf4caa...')
+#1 {main}
+  thrown in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php on line 1541
+[29-Jul-2011 17:45:51] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'videos/3295c76acbf4caaed33c36b1b5fc2cb1102IMG_0381.MOV' did not exist to delete.' in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/soccermashTest3/gestion/modulos/video/delVideo.php(22): CF_Container->delete_object('3295c76acbf4caa...')
+#1 {main}
+  thrown in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php on line 1541
+[29-Jul-2011 17:45:55] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'videos/3295c76acbf4caaed33c36b1b5fc2cb1102IMG_0381.MOV' did not exist to delete.' in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/soccermashTest3/gestion/modulos/video/delVideo.php(22): CF_Container->delete_object('3295c76acbf4caa...')
+#1 {main}
+  thrown in /home/soccer/public_html/soccermashTest3/rackspace/lib/cloudfiles.php on line 1541
+[01-Aug-2011 11:55:53] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[01-Aug-2011 11:55:54] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[01-Aug-2011 11:55:54] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[03-Aug-2011 17:32:44] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[03-Aug-2011 17:32:44] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[03-Aug-2011 17:32:44] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[03-Aug-2011 18:46:58] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[03-Aug-2011 18:46:58] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[03-Aug-2011 18:46:59] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[04-Aug-2011 11:26:27] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[04-Aug-2011 11:26:27] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[04-Aug-2011 11:26:32] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[04-Aug-2011 13:30:15] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[04-Aug-2011 13:30:16] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[04-Aug-2011 13:30:16] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[04-Aug-2011 13:37:47] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/youApi/youClass.php on line 21
+[04-Aug-2011 13:37:47] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 142
+[04-Aug-2011 13:37:47] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 143
+[04-Aug-2011 14:28:58] PHP Parse error:  syntax error, unexpected '{' in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 145
+[04-Aug-2011 14:33:10] PHP Parse error:  syntax error, unexpected '{' in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 145
+[04-Aug-2011 14:39:04] PHP Notice:  Undefined variable: imgName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 186
+[04-Aug-2011 14:47:08] PHP Notice:  Undefined variable: imgName in /home/soccer/public_html/soccermashTest3/gestion/modulos/video/uploadVideo.php on line 186
+[16-Aug-2011 15:50:23] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 38
+[16-Aug-2011 15:50:23] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 40
+[16-Aug-2011 15:50:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 141
+[16-Aug-2011 15:50:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 151
+[16-Aug-2011 16:32:58] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 38
+[16-Aug-2011 16:32:58] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 40
+[16-Aug-2011 16:32:58] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 141
+[16-Aug-2011 16:32:58] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 151
+[18-Aug-2011 16:25:42] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 38
+[19-Aug-2011 09:06:32] PHP Warning:  copy(http://i.ytimg.com/vi/YsCwmIn4oRE /default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[19-Aug-2011 09:06:32] PHP Warning:  copy(http://i.ytimg.com/vi/YsCwmIn4oRE /0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[19-Aug-2011 09:08:30] PHP Warning:  copy(http://i.ytimg.com/vi/YsCwmIn4oRE /default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[19-Aug-2011 09:08:30] PHP Warning:  copy(http://i.ytimg.com/vi/YsCwmIn4oRE /0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[21-Aug-2011 14:37:28] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[21-Aug-2011 14:37:28] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[21-Aug-2011 14:54:24] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[21-Aug-2011 14:54:25] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[21-Aug-2011 15:00:14] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[21-Aug-2011 15:00:15] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[21-Aug-2011 15:16:58] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[21-Aug-2011 15:16:59] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[21-Aug-2011 15:20:16] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[21-Aug-2011 15:20:17] PHP Warning:  copy(http://i.ytimg.com/vi/9vozhahjpvs/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[22-Aug-2011 19:09:49] PHP Warning:  copy(http://i.ytimg.com/vi/q4AY1JoIEOk /default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[22-Aug-2011 19:09:49] PHP Warning:  copy(http://i.ytimg.com/vi/q4AY1JoIEOk /0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[26-Aug-2011 01:53:24] PHP Warning:  copy(http://i.ytimg.com/vi/0y8p7oQtE20  (part 1)/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[26-Aug-2011 01:53:24] PHP Warning:  copy(http://i.ytimg.com/vi/0y8p7oQtE20  (part 1)/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[26-Aug-2011 01:55:53] PHP Warning:  copy(http://i.ytimg.com/vi/VxlyiMeZRAU  (part 2)/default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[26-Aug-2011 01:55:53] PHP Warning:  copy(http://i.ytimg.com/vi/VxlyiMeZRAU  (part 2)/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[26-Aug-2011 01:58:18] PHP Warning:  copy(http://i.ytimg.com/vi/PIn4TS95T-Q /default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 155
+[26-Aug-2011 01:58:18] PHP Warning:  copy(http://i.ytimg.com/vi/PIn4TS95T-Q /0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 400 Bad Request
+ in /home/soccer/public_html/pruebagral/gestion/modulos/video/uploadVideo.php on line 156
+[31-Aug-2011 08:19:50] PHP Warning:  copy() [<a href='function.copy'>function.copy</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 156
+[31-Aug-2011 08:19:50] PHP Warning:  copy(http://i.ytimg.com/vi/lbtDCwnm6HA/0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 156
+[02-Sep-2011 13:21:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:21:57] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:57:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:00:06] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:00:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:01:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:03:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:03:24] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:04:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE');, ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:10:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:15:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:48:39] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:10:44] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:14:37] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:30:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(´language'´,´original'´,´traduccion'´) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 15:30:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(´language´,´original´,´traduccion´) values('4','VOTE','VOTE');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 15:36:36] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('4','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 15:53:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_traduccion", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/idioma.php(62): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#2 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#3 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 15:55:12] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_traduccion", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/idioma.php(63): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#2 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#3 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 15:58:03] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_traduccion", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/idioma.php(63): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#2 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#3 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:06:43] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_traduccion", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/idioma.php(62): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(59): Idioma->traducir('VOTE')
+#2 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#3 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:33:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:65
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(88): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 65
+[02-Sep-2011 16:34:01] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:34:23] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:35:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:35:53] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:36:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:37:26] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:56:19] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 16:56:54] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 17:45:11] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 17:50:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(162): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 17:53:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(155): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 17:54:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','COMMENTS','COMMENTS');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php(155): Idioma->traducir('COMMENTS')
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoPlayer.php(56): require_once('/home/soccer/pu...')
+#5 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[02-Sep-2011 18:02:34] PHP Parse error:  syntax error, unexpected '<' in /home/soccer/public_html/lab1/gestion/modulos/video/videoVotesViews.php on line 168
+[05-Sep-2011 17:51:36] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[05-Sep-2011 17:51:36] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[05-Sep-2011 17:51:36] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[05-Sep-2011 17:51:36] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[06-Sep-2011 09:04:50] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[06-Sep-2011 09:04:50] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[06-Sep-2011 09:04:50] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[06-Sep-2011 09:04:50] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[06-Sep-2011 10:29:25] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[06-Sep-2011 10:29:25] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[06-Sep-2011 10:29:25] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[06-Sep-2011 10:29:25] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[06-Sep-2011 10:40:29] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[06-Sep-2011 10:40:29] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[06-Sep-2011 10:40:29] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[06-Sep-2011 10:40:29] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[06-Sep-2011 11:33:21] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[06-Sep-2011 11:33:21] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[06-Sep-2011 11:33:21] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[06-Sep-2011 11:33:21] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[08-Sep-2011 06:19:18] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[08-Sep-2011 06:19:18] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[08-Sep-2011 06:19:18] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[08-Sep-2011 06:19:18] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[08-Sep-2011 06:33:32] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[08-Sep-2011 06:33:32] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[08-Sep-2011 06:33:32] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[08-Sep-2011 06:33:32] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[28-Sep-2011 12:38:32] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[28-Sep-2011 12:38:32] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[28-Sep-2011 12:38:32] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[28-Sep-2011 12:38:32] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[29-Sep-2011 15:30:35] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[29-Sep-2011 15:30:35] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[29-Sep-2011 15:30:35] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[29-Sep-2011 15:30:35] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[29-Sep-2011 15:54:01] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[29-Sep-2011 15:54:01] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[29-Sep-2011 15:54:01] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[29-Sep-2011 15:54:01] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[01-Oct-2011 14:13:06] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[01-Oct-2011 14:13:06] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[01-Oct-2011 14:13:06] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[01-Oct-2011 14:13:06] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[01-Oct-2011 14:44:44] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[01-Oct-2011 14:44:44] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[01-Oct-2011 14:44:44] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[01-Oct-2011 14:44:44] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[03-Oct-2011 10:43:00] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[03-Oct-2011 10:43:17] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[03-Oct-2011 11:00:01] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[03-Oct-2011 14:56:23] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[03-Oct-2011 14:56:23] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[03-Oct-2011 14:56:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[03-Oct-2011 14:56:23] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[10-Oct-2011 14:52:51] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[10-Oct-2011 14:52:51] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[10-Oct-2011 14:52:51] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[10-Oct-2011 14:52:51] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[10-Oct-2011 14:53:55] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[10-Oct-2011 14:53:55] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[10-Oct-2011 14:53:55] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[10-Oct-2011 14:53:55] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[10-Oct-2011 15:44:41] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[10-Oct-2011 15:44:41] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[10-Oct-2011 15:44:41] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[10-Oct-2011 15:44:41] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[16-Oct-2011 09:54:42] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[17-Oct-2011 12:28:29] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 48
+[17-Oct-2011 12:28:29] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 50
+[17-Oct-2011 12:28:29] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 151
+[17-Oct-2011 12:28:29] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video/uploadVideo.php on line 161
+[21-Oct-2011 11:13:02] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 224
+[21-Oct-2011 11:16:21] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 53
+[28-Oct-2011 15:42:06] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 53
+[28-Oct-2011 18:21:50] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 58
+[28-Oct-2011 18:21:50] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 61
+[28-Oct-2011 18:21:50] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 162
+[28-Oct-2011 18:21:50] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/lab1/gestion/modulos/video/uploadVideo.php on line 172
+[11-Apr-2013 07:48:00] PHP Notice:  Undefined index:  idUser in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.Lab1.php on line 48
+[11-Apr-2013 07:48:00] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.Lab1.php on line 50
+[11-Apr-2013 07:48:00] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.Lab1.php on line 151
+[11-Apr-2013 07:48:00] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.Lab1.php on line 161
+[11-Apr-2013 07:48:01] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.php on line 58
+[11-Apr-2013 07:48:01] PHP Notice:  Undefined index:  fileName in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.php on line 61
+[11-Apr-2013 07:48:01] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.php on line 162
+[11-Apr-2013 07:48:01] PHP Notice:  Undefined index:  youtube in /home/soccer/public_html/gestion/modulos/video-28-10-2011/uploadVideo.php on line 172

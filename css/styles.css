@@ -1,0 +1,378 @@
+@charset "utf-8";
+/* CSS Document */
+/*Soccermash*/
+
+*{}
+/*TIPOGRAFIA*/
+*{
+	font-family:Arial, Helvetica, sans-serif;
+}
+a:link, a:visited{
+	text-decoration:none;
+	color: #11582e;
+}
+a:hover{
+	color:#999999;
+	}
+
+/*LAYOUT GENERAL*/
+#wrapper{
+	width:980px;
+	height:auto;
+	margin:auto;
+	margin-top:0;
+	background-color:red; /*temporal borrar*/
+}
+/**********************************/
+#header{
+	width:980px;
+	height:40px;
+	position:relative;
+	background-color:#000000;
+	color:#FFFFFF;/*temp*/
+}
+/**********************************/
+#content{
+	width:980px;
+	height:auto;
+	float:left;
+	background-color:#333333;/*temporal borrar*/
+}
+/********************************/
+		#leftColumn{
+			width:770px;
+			float:left;
+			height:auto;
+			background-color:lightgray;
+		}
+						#newsFeed{
+							width:770px;
+							height:20px;
+							position:relative;
+							background-color:#d2ded0;
+						}
+						#profileColumn{
+							width:180px;
+							height:auto;/*temp*/
+							float:left;
+							background-image:url(../img/bgPatternLft.jpg);
+							background-position:center;
+							background-repeat:repeat-y;
+							background-color:#FFFFFF;/*temp*/
+						}
+						#centralColumn{
+							width:590px;
+							height:auto;
+							float:left;
+							background-color:#FFFFFF;
+						}
+		/*******************************/
+		#rightColumn{
+			width:210px;
+			float:left;
+			height:auto;
+			background-color:#ebebeb;
+			background-image:url(../img/bgPatternRgt.jpg);
+			background-position:left;
+			background-repeat:repeat-y;
+		}
+/*******************************/
+#footer{
+	clear:both;
+	float:left;
+	width:980px;
+	background-color:#FFFFFF;
+	height:40px;/*ver altura, lo definì yo*/
+}
+/**********************************/
+/*HEADER*/
+#header ul li{
+	display:inline;
+	font-size:70%;
+	color:#999999;
+	padding:10px;
+}
+#header ul{
+	float:right;
+}
+
+/*********************************/
+/*PROFILECOLUMN (estilos de modulos internos de esta columna)*/
+h2{
+	color:#11582e;
+	text-align:right;
+	font-style:italic;
+}
+a{
+	font-size:90%;
+}
+#profileColumn ul li{
+	text-align:right;
+	padding-right:10px;
+}
+/***************/
+#photoProfile{
+	width:180px;
+	height:255px;
+	float:left;
+}
+#menuProfile{
+	width:180px;
+	height:auto;
+	margin-bottom:20px;
+	border-bottom: 1px solid #11582e;
+	float:left;
+}
+#myProfiles{
+	width:180px;
+	height:auto;
+	border-bottom: 1px solid #11582e;
+	float:left;
+}
+#followers{
+	width:180px;
+	height:auto;
+	border-bottom: 1px solid #11582e;
+	float:left;
+}
+#playerStats{
+	width:180px;
+	height:auto;
+	border-bottom: 1px solid #11582e;
+	float:left;
+}
+#voteRates{
+	width:180px;
+	height:auto;
+	border-bottom: 1px solid #11582e;
+	float:left;
+}
+/**************************************/
+/*CENTRALCOLUMN*/
+#centralColumn div{
+	outline:#000066 1px solid;
+}
+#topProfile{
+		width:inherit;
+		height:200px;auto;
+		float:left;
+}
+#profileTabs{/*This holds the tabs structure*/
+	width:589px;
+	height:auto;250px;auto;
+	position:relative;
+	outline:blue dashed 1px;
+	background-color:#FF6666;/*orange*/
+	padding:0;
+}
+#sortable{/*This holds all de sortable modules nested inside it*/
+	width:550px;590px;
+	height:290px;auto;
+	position:relative;
+	float:left;
+	outline:#CCCCCC 1px solid;
+	margin:0;
+	padding:0;
+	background-color:#00FFFF;/*celeste*/
+}
+
+/*SORTABLE MODULES (nested into #sortable)*/
+		.hideIt{
+			display:none;
+		}
+		#honours{
+			width:550px;
+			height:auto;
+			position:relative;
+			/*float:left;*/
+			background-color:grey;/*temp*/
+		}
+			#contentHonours{
+				width:550px;
+				height:50px;
+				position:relative;
+				background-color:#CC0000;
+			}
+			
+		#career{
+			width:550px;
+			height:100px;auto;
+			position:relative;
+			background-color:yellow;/*temp*/
+			/*float:left;*/
+		}
+		#observations{
+			width:550px;
+			height:100px;auto;
+			position:relative;
+			background-color:green;/*temp*/
+			/*float:left;*/
+		}
+		#personalDistintion{
+			width:550px;
+			height:100px;auto;
+			position:relative;
+			background-color:orange;/*temp*/
+			/*float:left;*/
+		}
+/*WALL MODULE, NO SORTABLE*/		
+#wall{
+	width:590px;
+	height:100px;auto;
+	position:relative;
+	/*float:left;*/
+}
+
+/*************************************/
+/*RIGHTCOLUMN*/
+.titleRight{
+	color:#bdbdbd;
+	font-size:75%;
+	padding-top:5px;
+	padding-bottom:5px;
+}
+/*The next rule is for the grey line that underline each module title at rightColumn*/
+hr{
+	background-color:#CCCCCC;
+  height:1px;
+  width: 96%;
+	border:0;
+	margin-left:-8px;
+}
+#internalNews{
+	width:210px;
+	height:auto;
+	float:right;
+	background-color:#c3c3c3;
+	color:#FFFFFF;
+	font-size:75%;
+}
+		#internalNews p{
+			padding-left:5px;
+			padding-right:5px;
+			padding-top:3px;
+		}
+/***********************/		
+/*Search module styles*/
+#search{
+	width:200px;
+	height:auto;
+	float:right;
+	min-height:76px;
+	border-bottom: 1px solid #11582e;
+	padding-top:5px;
+}
+		#search hr{
+			background-color:#CCCCCC;
+			height:1px;
+			width: 96%;
+			border:0;
+			margin:auto;
+			margin-bottom:5px;
+			margin-top:5px;
+		}
+		.titleSearch{
+			color:#000000;
+			font-size:85%;
+			padding-left:1px;
+		}
+		.titleSearch img{
+			display:block;
+			float:right;
+			padding-right:5px;
+		}
+		#search p{
+			text-align:right;
+			padding-right:5px;
+		}
+		#search a:link, #search a:visited{
+			font-size:70%;
+		}
+		#search input[type="text"]{
+			width:160px;
+			margin-top:3px;
+			margin-bottom:3px;
+			border:0;
+			outline:inset #f2f2f2 1px;
+			font-size:80%;
+			height:23px;
+			padding:2px;
+		}
+		.lookingFor{
+			background-image:url(../img/lookTEMP.jpg);
+			background-position:right;
+			background-repeat:no-repeat; 
+		}
+		/***************************/
+		/*styles for advancedSearch*/
+				#advancedSearch{
+					border-top:1px solid #11582e;
+				}
+				#advancedSearch ul li{
+					text-align:justify;
+					padding:5px;
+					font-size:75%;
+				}
+				#advancedSearch ul li input{
+					float:right;
+					/*display: block;*/
+				}
+				.titleAdvSearch{
+					color:#11582e;
+					font-size:80%;
+					display:block;
+					margin-top:10px;
+				}
+				/*styles for filter search by profile (hidden)*/
+					#filterSearch img{
+						display:block;
+						margin:auto;
+					}
+					.searchButton{
+						float:right;
+						margin:10px;
+					}
+/***************************/					
+#latestPeople{
+	width:200px;
+	height:auto;
+	float:right;
+	min-height:76px;/*temp*/
+	padding-top:30px;
+}
+#sugestedPeople{
+	width:200px;
+	height:auto;
+	float:right;
+	min-height:76px;/*temp*/
+	border:1px;
+	padding-top:30px;
+	padding-bottom:10px;
+}
+#advertising{
+	width:200px;
+	height:175px;
+	float:right;
+	min-height:76px;/*temp*/
+	padding-top:20px;
+}
+		#advertising img{
+			float:left;
+			margin:3px;
+		}
+		#advertising p{
+			font-size:75%;
+			padding-top:5px;
+		}
+#sponsoredBy{
+	width:200px;
+	height:auto;
+	float:right;
+	min-height:76px;/*temp*/
+	background-position:center bottom;
+	background-image:url(../img/cocaTEMP.jpg);
+	background-repeat:no-repeat;
+}
+/********************************/
+/*styles for form controls*/
+

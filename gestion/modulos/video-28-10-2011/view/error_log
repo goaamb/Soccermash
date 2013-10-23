@@ -1,0 +1,229 @@
+[27-Aug-2011 09:25:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:250
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/pruebagral/goaamb/idioma.php(93): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#4 /home/soccer/public_html/pruebagral/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/pruebagral/gestion/modulos/video/view/lateralViewVotes.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 250
+[27-Aug-2011 09:25:04] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:250
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/pruebagral/goaamb/idioma.php(93): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#4 /home/soccer/public_html/pruebagral/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/pruebagral/gestion/modulos/video/view/lateralViewVotes.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 250
+[27-Aug-2011 09:25:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:250
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/pruebagral/goaamb/idioma.php(93): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#4 /home/soccer/public_html/pruebagral/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/pruebagral/gestion/modulos/video/view/lateralViewVotes.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 250
+[27-Aug-2011 09:25:16] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: show create table ax_country, MySQL server has gone away' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php(297): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php(213): GConexion->obtenerUnicas('ax_country')
+#2 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_country')
+#3 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_country')
+#4 /home/soccer/public_html/pruebagral/goaamb/idioma.php(106): ModelLoader::crear('ax_country')
+#5 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#6 /home/soccer/public_html/pruebagral/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#7 /home/soccer/public_html/pruebagral/gestion/modulos/v in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 60
+[29-Aug-2011 13:53:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/backup/gestion/lib/share/clases/nucleo/funciones.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/backup/gestion/modulos/video/videoVoteClass.php on line 6
+[29-Aug-2011 13:53:46] PHP Parse error:  syntax error, unexpected T_STRING in /home/soccer/public_html/backup/gestion/lib/share/clases/nucleo/funciones.php on line 1383
+[02-Sep-2011 13:23:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:26:56] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:28:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:38:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:47:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:49:49] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:50:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:50:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:50:32] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:50:35] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 13:50:38] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: insert into ax_traduccion(language,original,traduccion) values('4','Delete','Delete'), ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:08:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:14:52] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:15:21] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:24:09] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:24:55] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:27:51] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(language,original,traduccion) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(79): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 15:33:07] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "insert into ax_traduccion(`language`,`original`,`traduccion`) values('2','Delete','Delete');", ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(84): GConexion->consulta('insert into ax_...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(278): GConexion->insertar('ax_traduccion', Array)
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(59): ModelLoader->insertar()
+#3 /home/soccer/public_html/lab1/gestion/modulos/video/view/videoSlider.php(140): Idioma->traducir('Delete')
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 61
+[14-Oct-2011 12:28:30] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/publi in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[14-Oct-2011 12:34:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/video/videoClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/public_ht in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[14-Oct-2011 13:09:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/publi in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[19-Oct-2011 12:46:12] PHP Fatal error:  Uncaught exception 'MLFieldNotDefinedException' with message 'El Campo Hash no esta defininido' in /home/soccer/public_html/lab1/goaamb/bd/modelloader.php:134
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(138): ModelLoader->__campo('hash')
+#1 /home/soccer/public_html/lab1/goaamb/idioma.php(43): ModelLoader->__get('hash')
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(143): Idioma->__construct('es-ES')
+#3 /home/soccer/public_html/lab1/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#4 /home/soccer/public_html/lab1/gestion/modulos/video/videoVoteClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/lab1/gestion/modulos/video/view/lateralViewVotes.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/modelloader.php on line 134

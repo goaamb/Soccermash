@@ -1,0 +1,1005 @@
+<?php
+
+				
+				
+
+if(!isset($_SESSION["editProfile"]) or $_SESSION["editProfile"]==0 or $_SESSION["editProfile"]==false){
+	
+	$editingProfile=false;   
+}else{
+
+	$editingProfile=$_SESSION["editProfile"];   
+	require_once($_SERVER['DOCUMENT_ROOT']."/gestion/modulos/home/modules/classAndres.php"); 
+	
+	
+	
+	
+	$oDB=new mysql;
+	$oDB->connect();
+	$sql=GenerateSelect("Code,country","ax_country");
+	$sql1=$oDB->query($sql) or die('Die');
+	
+	
+	
+	
+	
+	
+	
+	
+	?>
+	
+	<script type="text/javascript">
+	
+$("#loadGif").css('display','none');
+$(document).ready(function(){
+	$("#dataPicker").datepicker({changeMonth: true, changeYear: true}).datepicker("option", "yearRange", '1900:+nn');
+	$("#dataPicker2").datepicker({changeMonth: true, changeYear: true}).datepicker("option", "yearRange", '2011:2100');
+	$("#dataPicker3").datepicker({changeMonth: true, changeYear: true}).datepicker("option", "yearRange", '1900:+nn');
+	
+	//$("#dataPicker").datepicker("option", "yearRange", '1900:+nn');
+
+	$('.editmode').css('background-color','#EAEFE8');
+	
+	
+	$('#profFields :text').focus(function(e){
+		
+			$('#profFields :text').keydown(function(e){
+
+				var code = e.keyCode;
+			
+				if (code === 13){
+					
+
+				
+					var clase=$(this).attr('class');
+					//alert("Clase :"+clase);
+						
+					var tot=clase.length;
+					var clas=clase.substring(9,tot);
+					//alert(clas);
+					
+					
+					
+					var asd=$('.'+clas+'').val();
+					//alert('.'+clas+'');
+					//alert("Value "+asd);
+					
+					//alert(clas);
+					$("#loadGif").css('display','block');
+					$("#loadGif").html("<img src='img/indicator.gif' width='15px' height='15px'>");
+				$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field="+clas+"&value="+asd,
+					
+							
+					success: function(){
+					$('.'+clas).animate({ backgroundColor: "#f6f6f6" }, 'fast');
+					
+					$("#loadGif").html('');
+					$("#loadGif").css('display','none');
+					//$('.'+clas).('background-color');
+						
+					}
+				})
+			
+		}
+	})
+})
+})		
+
+function closeClub(){
+var val2='-';
+var asd='-';
+	$("#club_finder").html('<a href="javascript:void(0);" class="editmode f3" onclick="javascript:finder1(\''+val2+'\',\''+asd+'\');" original-title="" style="background-color: rgb(234, 239, 232);">'+val2+'</a>');
+}
+
+
+function otherClub(){
+	closeClub();
+	$("#club_finder").html('<input type="text" class="f3bis" style="width:125px"></input><img src="img/check_edit_reposo.png" title="Save" onClick="javascript:save(\'f3bis\');">');
+}
+function finder1(val,place){
+		$('#'+place).html("<div class='otherClub' style='color:red;' onClick='javascript:otherClub();'>Click here to enter other club</div><input type='text' class='editmode f3' id='finderprofile'></input><input name='fhidden' id='fhidden' type='hidden'/><div name='das' id='resultDiv'></div>");
+
+		$('#finderprofile').keyup(function(){
+		$.post(dir2+"finder.php",{
+			field:'club',
+			chars:$('#finderprofile').val()
+		},
+		function(data){
+			$('#resultDiv').html(data);
+		});
+	})
+}
+
+
+
+/*
+$oDB2=new mysql;
+	$oDB2->connect();
+	$sql2=GenerateSelect("Code,country","ax_country",);
+	$sql2=$oDB->query($sql2) or die('Die');
+	
+	$aUsuario['countryName'] == $row['country']
+	
+	*/
+	
+	function var_dump(obj) {
+   if(typeof obj == "object") {
+      return "Type: "+typeof(obj)+((obj.constructor) ? "\nConstructor: "+obj.constructor : "")+"\nValue: " + obj;
+   } else {
+      return "Type: "+typeof(obj)+"\nValue: "+obj;
+   }
+}//end function var_dump
+	
+function selectCity(){
+	
+	var code=$(".f5").val();
+	//alert(code);
+	$("#cityag").removeAttr('disabled');
+	$.ajax({
+		url: dir2+"editagProfile.php",
+		data: "type=selectCity&field=f5&value="+code,
+		
+		success: function(data){
+			var parts = data.split('|');
+			var deleted = parts.pop();
+			//alert(var_dump(parts));
+			//var total = parts.size();
+			//alert(total);
+			//var ini=0;
+			//for (elemento in datoArrayAsociativo){
+				
+			//}
+			//<option '.$selected.' value="'.$countryCode[$cC1].'">'.$countryList[$cC1].'</option>';
+			//alert(var_dump(parts));
+			//var arreglito = new Array();
+			var vuelta=0;
+			for (vuelta = 0; vuelta < parts.length; vuelta++){
+			//for (x in parts){
+			
+				if(vuelta==0){
+				arreglito='<option value="'+(parts[vuelta])+'">'+(parts[vuelta])+'<option>';
+				$("#cityag").html(arreglito);
+				}else{
+				arreglito='<option value="'+(parts[vuelta])+'">'+(parts[vuelta])+'<option>';
+				$("#cityag").html($("#cityag").html()+arreglito);
+				}
+				
+			}
+			
+		
+			
+			
+		}
+	})
+}
+
+function changeNationalSelected(){
+	var value;
+	value=$("#nationalSelectedag").val();
+	
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f10&value="+value,
+					
+							
+					
+				})
+	
+
+}
+
+function changeSkillful(){
+	var value;
+	value=$("#skillfulChange").val();
+	
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f9&value="+value,
+					
+							
+					
+				})
+	
+
+}
+
+
+function changeMaritalStatus(){
+	var value;
+	value=$("#maritalStatusag").val();
+	
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f14&value="+value,
+					
+							
+					
+				})
+	
+
+}
+
+function selectedCity(){
+	
+var code=$(".f11").val();
+//	alert(code);
+var code2=$(".f5").val();
+//	alert(code2);	
+	$.ajax({
+		url: dir2+"editagProfile.php",
+		data: "type=change&field=f11&value="+code+"&value2="+code2,
+		
+		
+	})
+}
+
+function dateOfBirth(){
+	
+	var valorDate=$(".f2").val();
+//	alert(valorDate);
+	$.ajax({
+		url: dir2+"editagProfile.php",
+		data: "type=change&field=f2&value="+valorDate,
+		
+		
+	})
+}
+
+
+function endingContractDate(){
+	
+	var valorDate=$(".f4").val();
+//	alert(valorDate);
+	$.ajax({
+		url: dir2+"editagProfile.php",
+		data: "type=change&field=f4&value="+valorDate,
+		
+		
+	})
+}
+
+
+function lastContractDate(){
+	
+	var valorDate=$(".f4bis").val();
+//	alert(valorDate);
+	$.ajax({
+		url: dir2+"editagProfile.php",
+		data: "type=change&field=f4bis&value="+valorDate,
+		
+		
+	})
+}
+
+
+function agentFinder(val,place){
+		$('#'+place).html("<input type='text' class='editmode f42' id='agent'></input><input name='fhiddenAgent' id='fhiddenAgent' type='hidden'/><div name='das' id='resultDiv'></div>");
+
+		$('#agent').keyup(function(){
+		$.post(dir2+"specialFinder.php",{
+			field:'agent',
+			chars:$('#agent').val()
+		},
+		function(data){
+			$('#resultDiv').html(data);
+		});
+	})
+}
+
+
+function save(clas){
+	var asd=$('.'+clas+'').val();
+					//alert('.'+clas+'');
+					//alert("Value "+asd);
+					
+					//alert(clas);
+					$("#loadGif").css('display','block');
+					$("#loadGif").html("<img src='img/indicator.gif' width='15px' height='15px'>");
+				$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field="+clas+"&value="+asd,
+					
+							
+					success: function(){
+					$('.'+clas).animate({ backgroundColor: "#f6f6f6" }, 'fast');
+					
+					$("#loadGif").html('');
+					$("#loadGif").css('display','none');
+					//$('.'+clas).('background-color');
+						
+					}
+				})
+
+}
+
+function saveBirthDay(val){
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f2&value="+val,
+					
+				})
+}
+
+function year(){
+	//alert($("#yearAndresGrosso").val());
+	
+	var year=$("#yearAndresGrosso").val();
+	var month=$("#monthAndresGrosso").val();
+	var day=$("#dayAndresGrosso").val();
+	var birthday=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	
+	saveBirthDay(birthday);
+}
+
+
+function month(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrosso").val();
+	var month=$("#monthAndresGrosso").val();
+	var day=$("#dayAndresGrosso").val();
+	var birthday=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveBirthDay(birthday);
+}
+
+
+function day(){
+	//alert($("#dayAndresGrosso").val());
+	
+	var year=$("#yearAndresGrosso").val();
+	var month=$("#monthAndresGrosso").val();
+	var day=$("#dayAndresGrosso").val();
+	var birthday=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveBirthDay(birthday);
+}
+
+function saveECD(val){
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f4&value="+val,
+					
+				})
+}
+
+
+
+function yearECD(){
+	//alert($("#yearAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoECD").val();
+	var month=$("#monthAndresGrossoECD").val();
+	var day=$("#dayAndresGrossoECD").val();
+	var ECD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	
+	saveECD(ECD);
+}
+
+
+function monthECD(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoECD").val();
+	var month=$("#monthAndresGrossoECD").val();
+	var day=$("#dayAndresGrossoECD").val();
+	var ECD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveECD(ECD);
+}
+
+
+function dayECD(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoECD").val();
+	var month=$("#monthAndresGrossoECD").val();
+	var day=$("#dayAndresGrossoECD").val();
+	var ECD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveECD(ECD);
+}
+
+
+function saveLCD(val){
+	$.ajax({
+					url: dir2+"editagProfile.php",
+					data: "type=change&field=f4bis&value="+val,
+					
+				})
+}
+
+
+
+function yearLCD(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoLCD").val();
+	var month=$("#monthAndresGrossoLCD").val();
+	var day=$("#dayAndresGrossoLCD").val();
+	var LCD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveLCD(LCD);
+}
+
+
+function monthLCD(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoLCD").val();
+	var month=$("#monthAndresGrossoLCD").val();
+	var day=$("#dayAndresGrossoLCD").val();
+	var LCD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveLCD(LCD);
+}
+
+function dayLCD(){
+	//alert($("#monthAndresGrosso").val());
+	
+	var year=$("#yearAndresGrossoLCD").val();
+	var month=$("#monthAndresGrossoLCD").val();
+	var day=$("#dayAndresGrossoLCD").val();
+	var LCD=year+'-'+month+'-'+day;
+	
+	//alert(birthday);
+	saveLCD(LCD);
+}
+
+
+</script>
+<style>
+#loadGif{
+	float:left;
+	margin-left:250px;
+	margin-top:50px;
+}
+</style>
+<?php	
+}
+#Datos Profesionales
+$iCantCamposNulos=0;
+#nick
+if($aProfile[0]){
+if(!empty($aProfile[0]->nick)){
+	$sNick=$aProfile[0]->nick;
+}else{
+	$sNick=' - ';
+	$iCantCamposNulos++;
+}
+#club
+if(!empty($aProfile[0]->clubName)) 
+	$sClub=$aProfile[0]->clubName;
+else{
+	$sClub=$aProfile[0]->otherClub;
+	if(empty($sClub)){
+		$sClub=' - ';
+		$iCantCamposNulos++;
+	}
+}	
+#BeginContractDate
+if(!empty($aProfile[0]->beginContractDate))
+    $sBeginContractDate=explodeEdad($aProfile[0]->beginContractDate);	
+else{ 
+	$sBeginContractDate=' - ';
+	$iCantCamposNulos++;
+	
+}
+#EndingContractDate
+if(!empty($aProfile[0]->endingContractDate))
+    $sEndingContractDate=explodeEdad($aProfile[0]->endingContractDate);	
+else{  
+	$sEndingContractDate=' - ';
+	$iCantCamposNulos++;
+}
+#LastContractDate
+if(!empty($aProfile[0]->lastContractDate))
+    $sLastContractDate=explodeEdad($aProfile[0]->lastContractDate);	
+else{  
+	$sLastContractDate='00/00/0000';
+	$iCantCamposNulos++;
+	
+}	
+#passaport
+if(!empty($aProfile[0]->passaport))
+    $sPassaport=$aProfile[0]->passaport;	
+else{  
+	$sPassaport=' - ';		
+	$iCantCamposNulos++;
+}
+#agentName
+if(!empty($aProfile[0]->agentName))
+    $sAgentName=$aProfile[0]->agentName;	
+else{  
+	$sAgentName=' - ';		
+	$iCantCamposNulos++;
+}
+#nationalSelected
+if(!empty($aProfile[0]->nationalSelection))
+    $sNationalSelected=$aProfile[0]->nationalSelection;	
+else{ 
+	$sNationalSelected=' - ';	
+	$iCantCamposNulos++;
+}	
+#height	
+if(!empty($aProfile[0]->height))
+    $sHeight=$aProfile[0]->height;	
+else{  
+	$sHeight=' - ';		
+	$iCantCamposNulos++;
+}
+#weigth
+if(!empty($aProfile[0]->weigth))
+    $sWeigth=$aProfile[0]->weigth;	
+else{  
+	$sWeigth=' - ';
+	$iCantCamposNulos++;
+}		
+#maritalStatus
+if(!empty($aProfile[0]->maritalStatus))
+    $sMaritalStatus=$aProfile[0]->maritalStatus;	
+else{  
+	$sMaritalStatus=' - ';	
+	$iCantCamposNulos++;
+}
+#skillfullLegHand
+if(!empty($aProfile[0]->skillfullLegHand))
+    $sSkillfullLegHand=$aProfile[0]->skillfullLegHand;	
+else { 
+	$sSkillfullLegHand=' - ';	
+	$iCantCamposNulos++;
+}
+
+#namePosition
+$sPos=Array();
+$sPos = explode(",",$aProfile[0]->position);
+$aUsuario['namePosition']=namePosition($sPos[0]);
+
+if(!empty($aUsuario['namePosition']))
+{
+	if(sizeof($sPos)>2)
+		for($i=1;$i<sizeof($sPos);$i++){
+			$aUsuario['namePosition'].='/ '.namePosition($sPos[$i]);	
+		}
+}else{
+	$aUsuario['namePosition']=' - ';	
+	$iCantCamposNulos++;
+}
+}else{
+	$sNick=' - ';
+		$iCantCamposNulos++;
+		$sClub=' - ';
+		$iCantCamposNulos++;
+	$sBeginContractDate=' - ';
+	$iCantCamposNulos++; 
+	$sEndingContractDate=' - ';
+	$iCantCamposNulos++; 
+	$sLastContractDate=' - ';
+	$iCantCamposNulos++; 
+	$sPassaport=' - ';		
+	$iCantCamposNulos++; 
+	$sAgentName=' - ';		
+	$iCantCamposNulos++;
+	$sNationalSelected=' - ';	
+	$iCantCamposNulos++; 
+	$sHeight=' - ';		
+	$iCantCamposNulos++; 
+	$sWeigth=' - ';
+	$iCantCamposNulos++; 
+	$sMaritalStatus=' - ';	
+	$iCantCamposNulos++; 
+	$sSkillfullLegHand=' - ';	
+	$iCantCamposNulos++;
+	$aUsuario['namePosition']=' - ';	
+	$iCantCamposNulos++;
+}
+if($iUserProfileId==2){#player c/ contract
+	$iCantCamposNulos=$iCantCamposNulos-1;#saco los campos(date) de player S/ contract
+	$iCantTotal=12;
+}
+if($iUserProfileId==3){#player S/ contract
+	$iCantCamposNulos=$iCantCamposNulos-2;#saco los campos(date) de player c/ contract
+	$iCantTotal=11;
+}
+if($iUserProfileId==5){#player Amateur
+	$iCantCamposNulos=$iCantCamposNulos-3;#saco los campos(date) de player profesional
+	$iCantTotal=10;
+}
+if($iUserProfileId==6){#Ex-player 
+	$iCantCamposNulos=$iCantCamposNulos-2;#saco los campos(date) de player profesional
+	$iCantTotal=10;
+}
+#Porcentaje
+$iPorcentajeMostrar=100-porcentajeDatos($iCantCamposNulos,$iCantTotal);
+$iPorcFinal=100-$iPorcentajeMostrar;
+
+
+?>
+
+<!-- Group Player-->
+
+<span id="hideinf"><span>HIDE INFO<a class="menosinf" href="#"></a></span></span>
+            <table id="profFields" width="589" border="0">
+            	<tr>
+              	<td id="lftTD" width="250" valign="top">
+              	<ul>
+				  <li><span>Sport Nick Name:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f1"      value="<?php echo $sNick;?>" type="text" /><?php echo ($editingProfile)? '<img src="img/check_edit_reposo.png" title="Save" onClick="javascript:save(\'f1\');">' : '' ;?> </li>
+				  <?php if($editingProfile){ ?>
+				  <li><span>Date of birth:</span>
+				  
+
+<?php $date=explode('-',$aUsuario['dayOfBirthDay']) ;
+$yearBD=(int)$date[0];
+//echo $date[1]."<br />";//month
+$monthBD=(int)$date[1];
+//echo $date[2]."<br />";//day
+$dayBD=(int)$date[2];
+$selectYear='';
+$selectMonth='';
+$selectDay='';
+?>
+				  
+<select id="dayAndresGrosso" onChange="javascript:day();">
+
+		  <?php
+		  
+		  for ($day = 1; $day <= 31; $day++) {
+		  
+		  
+			if($day==$dayBD){		  		  
+			echo "<option selected value='$day'>$day</option>";
+				}else{
+			echo "<option value='$day'>$day</option>";
+			}
+		  }
+		 
+		  ?>
+		  </select>
+		  
+		  <select id="monthAndresGrosso" onChange="javascript:month();">
+		  <option <?php echo ($monthBD==01)? 'selected' : '' ; ?> value="01">Jan</option>
+		  <option <?php echo ($monthBD==02)? 'selected' : '' ; ?> value="02">Feb</option>
+		  <option <?php echo ($monthBD==03)? 'selected' : '' ; ?> value="03">Mar</option>
+		  <option <?php echo ($monthBD==04)? 'selected' : '' ; ?> value="04">Apr</option>
+		  <option <?php echo ($monthBD==05)? 'selected' : '' ; ?> value="05">May</option>
+		  <option <?php echo ($monthBD==06)? 'selected' : '' ; ?> value="06">Jun</option>
+		  <option <?php echo ($monthBD==07)? 'selected' : '' ; ?> value="07">Jul</option>
+		  <option <?php echo ($monthBD==08)? 'selected' : '' ; ?> value="08">Aug</option>
+		  <option <?php echo ($monthBD==09)? 'selected' : '' ; ?> value="09">Sep</option>
+		  <option <?php echo ($monthBD==10)? 'selected' : '' ; ?> value="10">Oct</option>
+		  <option <?php echo ($monthBD==11)? 'selected' : '' ; ?> value="11">Nov</option>
+		  <option <?php echo ($monthBD==12)? 'selected' : '' ; ?> value="12">Dec</option>
+		  </select>
+		  
+		  <select id="yearAndresGrosso" onChange="javascript:year();">
+	  <?php  for ($year = 2011; $year >= 1905; $year--) { 
+	if($year==$yearBD){
+		echo "<option selected value='$year'>$year</option>";
+	}else{
+		echo "<option  value='$year'>$year</option>";
+	}
+	  } ?>
+		  </select>
+				  
+
+</li>
+<?php }else{ ?>
+				<li><span>Date of birth:</span><input disabled class="editmode f2" 
+value="<?php if(!empty($aUsuario['dayOfBirthDay'])) echo explodeEdad($aUsuario['dayOfBirthDay']); else echo ' - ';?>" type="text" /> </li>
+				<?php } ?>
+				  <?php if($editingProfile){ ?>
+				  <li><span>Current Club:</span><div id="club_finder"><a onClick="javascript:finder1('<?php echo $sClub;?>','club_finder');" class="editmode f3" href="javascript:void(0);"><?php echo $sClub;?></a></div> </li>
+                  <?php }else{ ?>
+				  <li><span>Current Club:</span><input  disabled="disabled" class="editmode f3"         value="<?php echo $sClub;?>" type="text" /> </li>
+				  <?php } ?>
+				  <?php 	
+                  if($iUserProfileId==2){#player c/ contract
+                  ?>	
+				
+				 
+				 
+				 <!-- BEGIN ENDING CONTRACT DATE -->
+
+ <?php if($editingProfile){ ?>
+				  <li><span>Ending Contract Date:</span>
+				  
+
+<?php 
+//var_dump($sBeginContractDate);
+$date3=explode('/',$sEndingContractDate) ;
+
+$dayECDBD=(int)$date3[0];
+
+$monthECDBD=(int)$date3[1];
+
+$yearECDBD=(int)$date3[2];
+
+$selectYear='';
+
+$selectMonth='';
+
+$selectDay='';
+?>
+				  
+<select id="dayAndresGrossoECD" onChange="javascript:dayECD();">
+
+		  <?php
+		  
+		  for ($day = 1; $day <= 31; $day++) {
+		  
+		  
+			if($day==$dayECDBD){		  		  
+			echo "<option selected value='$day'>$day</option>";
+				}else{
+			echo "<option value='$day'>$day</option>";
+			}
+		  }
+		 
+		  ?>
+		  </select>
+		  
+		  <select id="monthAndresGrossoECD" onChange="javascript:monthECD();">
+		  <option <?php echo ($monthECDBD==01)? 'selected' : '' ; ?> value="01">Jan</option>
+		  <option <?php echo ($monthECDBD==02)? 'selected' : '' ; ?> value="02">Feb</option>
+		  <option <?php echo ($monthECDBD==03)? 'selected' : '' ; ?> value="03">Mar</option>
+		  <option <?php echo ($monthECDBD==04)? 'selected' : '' ; ?> value="04">Apr</option>
+		  <option <?php echo ($monthECDBD==05)? 'selected' : '' ; ?> value="05">May</option>
+		  <option <?php echo ($monthECDBD==06)? 'selected' : '' ; ?> value="06">Jun</option>
+		  <option <?php echo ($monthECDBD==07)? 'selected' : '' ; ?> value="07">Jul</option>
+		  <option <?php echo ($monthECDBD==08)? 'selected' : '' ; ?> value="08">Aug</option>
+		  <option <?php echo ($monthECDBD==09)? 'selected' : '' ; ?> value="09">Sep</option>
+		  <option <?php echo ($monthECDBD==10)? 'selected' : '' ; ?> value="10">Oct</option>
+		  <option <?php echo ($monthECDBD==11)? 'selected' : '' ; ?> value="11">Nov</option>
+		  <option <?php echo ($monthECDBD==12)? 'selected' : '' ; ?> value="12">Dec</option>
+		  </select>
+		  
+		  <select id="yearAndresGrossoECD" onChange="javascript:yearECD();">
+	   <?php  for ($year = 2011; $year <= 2100; $year++) {  
+	if($year==$yearECDBD){
+		echo "<option selected value='$year'>$year</option>";
+	}else{
+		echo "<option  value='$year'>$year</option>";
+	}
+	  } ?>
+		  </select>
+				  
+
+</li>
+<?php }else{ ?>
+				<li><span>Ending Contract Date:</span><input disabled class="editmode f4" 
+value="<?php echo $sEndingContractDate; ?>" type="text" /> </li>
+				<?php } ?>
+
+<!-- END ENDING CONTRACT DATE -->
+				 
+				 
+				 <?php 	
+				  }else{
+				  	if($iUserProfileId==3 || $iUserProfileId==6){#player S/ contract o ex-player
+				  	?>	
+				  		
+						
+						
+						
+					<!-- BEGIN LAST CONTRACT DATE -->
+
+ <?php if($editingProfile){ ?>
+				  <li><span>Last Contract Date:</span>
+				  
+
+<?php 
+//var_dump($sLastContractDate);
+$date4=explode('/',$sLastContractDate) ;
+
+$dayLCDBD=(int)$date4[0];
+
+$monthLCDBD=(int)$date4[1];
+
+$yearLCDBD=(int)$date4[2];
+
+$selectYear='';
+
+$selectMonth='';
+
+$selectDay='';
+?>
+				  
+<select id="dayAndresGrossoLCD" onChange="javascript:dayLCD();">
+
+		  <?php
+		  
+		  for ($day = 1; $day <= 31; $day++) {
+		  
+		  
+			if($day==$dayLCDBD){		  		  
+			echo "<option selected value='$day'>$day</option>";
+				}else{
+			echo "<option value='$day'>$day</option>";
+			}
+		  }
+		 
+		  ?>
+		  </select>
+		  
+		  <select id="monthAndresGrossoLCD" onChange="javascript:monthLCD();">
+		  <option <?php echo ($monthLCDBD==01)? 'selected' : '' ; ?> value="01">Jan</option>
+		  <option <?php echo ($monthLCDBD==02)? 'selected' : '' ; ?> value="02">Feb</option>
+		  <option <?php echo ($monthLCDBD==03)? 'selected' : '' ; ?> value="03">Mar</option>
+		  <option <?php echo ($monthLCDBD==04)? 'selected' : '' ; ?> value="04">Apr</option>
+		  <option <?php echo ($monthLCDBD==05)? 'selected' : '' ; ?> value="05">May</option>
+		  <option <?php echo ($monthLCDBD==06)? 'selected' : '' ; ?> value="06">Jun</option>
+		  <option <?php echo ($monthLCDBD==07)? 'selected' : '' ; ?> value="07">Jul</option>
+		  <option <?php echo ($monthLCDBD==08)? 'selected' : '' ; ?> value="08">Aug</option>
+		  <option <?php echo ($monthLCDBD==09)? 'selected' : '' ; ?> value="09">Sep</option>
+		  <option <?php echo ($monthLCDBD==10)? 'selected' : '' ; ?> value="10">Oct</option>
+		  <option <?php echo ($monthLCDBD==11)? 'selected' : '' ; ?> value="11">Nov</option>
+		  <option <?php echo ($monthLCDBD==12)? 'selected' : '' ; ?> value="12">Dec</option>
+		  </select>
+		  
+		  <select id="yearAndresGrossoLCD" onChange="javascript:yearLCD();">
+	  <?php  for ($year = 2011; $year >= 1905; $year--) { 
+	if($year==$yearLCDBD){
+		echo "<option selected value='$year'>$year</option>";
+	}else{
+		echo "<option  value='$year'>$year</option>";
+	}
+	  } ?>
+		  </select>
+				  
+
+</li>
+<?php }else{ ?>
+				<li><span>Last Contract Date:</span><input disabled class="editmode f4" 
+value="<?php echo $sLastContractDate; ?>" type="text" /> </li>
+				<?php } ?>
+
+<!-- END LAST CONTRACT DATE -->		
+						
+						
+						
+						
+				  	
+					
+					
+					
+					
+					
+					<?php 
+				  	}
+				  }
+                  ?>
+                 
+				 <?php if($editingProfile){ ?>
+				 <?php
+				
+				while($country=mysql_fetch_array($sql1)){
+					$countryList[]=$country['country'];
+					$countryCode[]=$country['Code'];
+					
+					
+				}
+				
+				$cL=count($countryList);
+				$cC=count($countryCode);
+				
+				
+				echo '<li><span>Nationality:</span><select name="countryag" class="editmode f5" onClick="javascript:selectCity();">';
+				
+				for($cC1=0;$cC--;$cC1++){
+					($countryList[$cC1]==$aUsuario['countryName'])? $selected='selected' :  $selected='';
+					echo '<option '.$selected.' value="'.$countryCode[$cC1].'">'.$countryList[$cC1].'</option>';
+				}
+				echo '</select><span class="icon"></span></li>';
+				
+				
+				}else{
+				
+				
+				
+				?><li><span>Nationality:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f5"          value="<?php echo $aUsuario['countryName'];?>" type="text" /> </li><?php
+				
+				}
+				//var_dump($countryList);
+				//var_dump($countryCode);
+				?>
+				<?php if($editingProfile){ ?>
+				 <li><span id="">Place of birth:</span><select name="cityag" disabled class="editmode f11"  id="cityag" onClick="javascript:selectedCity();"></select><span class="icon"></span></li>
+				  <?php }else{ ?>
+					<li><span id="">Place of birth:</span><input class="editmode f11"  disabled  value="<?php echo $aUsuario['cityName'].', '.$aUsuario['countryName'];?>" type="text" /><span id="" class="icon"></span></li>
+                  <?php } ?>
+				  
+                  
+				   <?php if($editingProfile){ ?>
+				  <li><span>Agent:</span><div id="agent_finder"><a onClick="javascript:agentFinder('<?php echo $sAgentName;?>','agent_finder');" class="editmode f42" href="javascript:void(0);"><?php echo $sAgentName;?></a></div> </li>
+                  <?php }else{ ?>
+				  <li><span>Agent:</span><input  disabled="disabled" class="editmode f42"         value="<?php echo $sAgentName;?>" type="text" /> </li>
+				  <?php } ?>
+				 				  
+                </ul>
+                </td>
+				<div id="loadGif"></div>
+                <td id="ctrTD" width="250" valign="top">
+               	<ul>
+                  <li><span id="">Position:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f8"           value="<?php echo $aUsuario['namePosition'];?>" type="text" /><span id="" class="icon"></span></li>
+                  
+				  <?php if($editingProfile){ ?>
+					<li><span id="">Skillful leg/hand:</span><select name="skillful" id="skillfulChange" onClick="javascript:changeSkillful();" class="editmofe f9">
+																<option <?php if ($sSkillfullLegHand == 'Left'){ echo 'selected';} ?> value="Left">Left</value>
+																<option <?php if ($sSkillfullLegHand == 'Right'){ echo 'selected';} ?> value="Right">Right</value>
+																<option <?php if ($sSkillfullLegHand == 'Both'){ echo 'selected';} ?> value="Both">Both</value>
+															<select><span id="" class="icon"></span></li>
+				  <?php }else{ ?>
+					<li><span id="">Skillful leg/hand:</span><input disabled="disabled" class="editmode f9"  value="<?php echo $sSkillfullLegHand;?>" type="text" /><span id="" class="icon"></span></li>
+				  <?php } ?>
+				  
+				  
+                   <?php if($editingProfile){ ?>
+				  <li><span id="">National Selected:</span><select name="nationalSelected" id="nationalSelectedag" onClick="javascript:changeNationalSelected();" class="editmode f10">
+																
+																<option <?php if ($sNationalSelected == 'None'){ echo 'selected';} ?> value="None">None</option>
+																<option <?php if ($sNationalSelected == 'FULL'){ echo 'selected';} ?> value="FULL">FULL</option>
+																<option <?php if ($sNationalSelected == 'U-15'){ echo 'selected';} ?> value="U-15">U-15</option>
+																<option <?php if ($sNationalSelected == 'U-16'){ echo 'selected';} ?> value="U-16">U-16</option>
+																<option <?php if ($sNationalSelected == 'U-17'){ echo 'selected';} ?> value="U-17">U-17</option>
+																<option <?php if ($sNationalSelected == 'U-19'){ echo 'selected';} ?> value="U-19">U-19</option>
+																<option <?php if ($sNationalSelected == 'U-20'){ echo 'selected';} ?> value="U-20">U-20</option>
+																<option <?php if ($sNationalSelected == 'U-21'){ echo 'selected';} ?> value="U-21">U-21</option>
+																<option <?php if ($sNationalSelected == 'U-23'){ echo 'selected';} ?> value="U-23">U-23</option>
+																
+																
+																
+															</select><span id="" class="icon"></span></li>
+				   <?php }else{ ?>
+				   <li><span id="">National Selected:</span><input disabled="disabled" class="editmode f10" value="<?php echo $sNationalSelected;?>" type="text" /><span id="" class="icon"></span></li>
+				   <?php } ?>
+				  
+				 
+				  
+				  
+				  
+				  <li><span>Passport:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f6"             value="<?php echo $sPassaport;?>" type="text" /><?php echo ($editingProfile)? '<img src="img/check_edit_reposo.png" title="Save" onClick="javascript:save(\'f6\');">' : '' ;?> </li> 
+				  <li><span id="">Height:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f12"            value="<?php echo $sHeight;?>" type="text" /><?php echo ($editingProfile)? '<img src="img/check_edit_reposo.png" title="Save" onClick="javascript:save(\'f12\');">' : '' ;?></li>
+                  <li><span id="">Weigth:</span><input <?php echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f13"            value="<?php echo $sWeigth;?>" type="text" /><?php echo ($editingProfile)? '<img src="img/check_edit_reposo.png" title="Save" onClick="javascript:save(\'f13\');">' : '' ;?></li>
+					
+						<?php  if($editingProfile){ ?>
+				  <li><span id="">Marital Status:</span><select name="maritalStatusag" id="maritalStatusag" onClick="javascript:changeMaritalStatus();" class="editmode f14"> -->
+																<option <?php if ($sMaritalStatus == 'Single'){ echo 'selecte';} ?> value="Single">Single</option>-->
+																<option <?php if ($sMaritalStatus == 'Married'){ echo 'selected';} ?> value="Married">Married</option>-->
+															</select> 
+															<span id="" class="icon"></span></li>
+						 <?php }else{ ?>
+						<li><span id="">Marital Status:</span><input <?php  echo ($editingProfile)? '' : 'disabled="disabled"' ;?> class="editmode f14"    value="<?php  echo $sMaritalStatus;?>" type="text" /></li> 
+						<?php  } ?>
+					
+               	</ul>
+                </td>
+                <td id="rgtTD" width="89">
+                <div id="advance">
+      					<div id="progressbar"><span id="pbyellow"></span></div>
+      					<p><?php echo $iPorcentajeMostrar?>% (?)</p>
+  							</div>
+                </td>
+              </tr>
+            </table>
+            <!----->
+<script type="text/javascript">
+
+	document.getElementById('pbyellow').style.backgroundPosition = '0px <?php echo $iPorcFinal?>px';
+
+</script>            
+	
+	
+
+

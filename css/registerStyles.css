@@ -1,0 +1,517 @@
+@charset "utf-8";
+/* CSS Document */
+/*LAYOUT*/
+html{
+width:100%;
+height:100%;
+padding:0;
+background-color:#464446;
+}
+body{
+padding:0;
+margin:0;
+min-height:100%;
+height:auto;
+background-color:#464446;
+}
+#topLogo{
+width:100%;
+height:40px;
+background-color:#000000;
+}
+#soccerlog{
+background-image:url(../img/logoSoccermashSmall.png);
+background-repeat:no-repeat;
+background-position: left center;
+width:595px;
+margin:auto;
+height:40px;
+*margin-left:28%;
+}
+.gecko #regContent, .ie #regContent,
+.webkit #regContent{
+width:595px;
+height:auto;
+margin:auto;
+background-color:#FFFFFF;
+min-height:100%;
+position:absolute;
+margin-left: auto;
+*margin-left: 28%;
+margin-right: auto;
+left:0; 
+right:0;
+}
+.opera #regContent{
+height:100%;
+width:595px;
+height:auto;
+min-height:700px;
+margin:auto;
+background-color:#FFFFFF;
+} 
+#generalFields, #playerFields, #registerFoot{
+padding-left:17px;
+height:auto;
+min-height:100px;
+}
+#plyrWoutContrFlds, #amtrPlayrFlds, 
+#exPlayer, #coachWiContr, #coachWiOutContr,
+#FIFAagent, #UEFAagent{
+padding-left:17px;
+height:auto;
+}
+#header{
+width:inherit;
+min-height:70px;
+height:auto;
+background-color:#e2e2e2;
+padding-top:20px;
+padding-bottom:10px;
+}
+#registerFoot {
+height:auto;
+min-height:500px;
+margin:auto;
+background-color:#FFFFFF;
+position:relative;
+float:left;
+}
+.posFoot{
+float:left;
+height:81px;
+margin-top:33px;
+}
+.txtFoot{
+width:135px;
+padding-right:16px;
+padding-top:15px;
+}
+.posFoot h2{
+display:none;
+}
+#hotmail{
+background-image:url(../img/imporOff.jpg);
+background-repeat:no-repeat;
+background-position:;
+width:100px;
+cursor:pointer;
+}
+#gmail{
+background-image:url(../img/imporOff.jpg);
+background-repeat:no-repeat;
+background-position:-103px 0px;
+width:125px;
+cursor:pointer;
+}
+#yahoo{
+background-image:url(../img/imporOff.jpg);
+background-repeat:no-repeat;
+background-position:-235px 0px;
+width:100px;
+cursor:pointer;
+}
+#hotmail:hover{
+background-image:url(../img/imporOn.jpg);
+}
+#gmail:hover{
+background-image:url(../img/imporOn.jpg);
+}
+#yahoo:hover{
+background-image:url(../img/imporOn.jpg);
+}
+#others{
+position:relative;
+float:right;
+background-color:#eeeeee;
+background-image:url(../img/bgOtEmail.png);
+background-repeat:no-repeat;
+background-position:left;
+display:block;
+width:208px;
+height:20px;
+margin-top:10px;
+margin-bottom:20px;
+}
+#others a{
+padding-right:10px;
+}
+.frm{
+width:476px;
+float:left;
+}
+span.pos{
+display:block;
+width:auto;
+height:auto;
+float:right;
+margin-bottom:0.5em;
+margin-top:0.5em;
+margin-right:0px;
+}
+.clear{
+clear:both;
+width:100%;
+}
+.right{
+float:right;
+margin-left:4px;
+}
+/*TIPOGRAPHY*/
+#header h1{
+padding-left:17px;
+line-height:2.1em;
+}
+#header h1{
+font-size:1.9em;
+font-weight:bold;
+color:#000000;
+}
+#generalFields h1, #playerFields h1, 
+#registerFoot h1, #plyrWoutContrFlds h1, 
+#amtrPlayrFlds h1, #exPlayer h1, 
+#coachWiContr h1, #coachWiOutContr h1,
+#FIFAagent h1, #UEFAagent h1{
+color:#0c8141;
+float:left;
+padding-top:0.7em;
+font-size:1.6em;
+}
+#others a:link, #others a:visited{
+color:#000000;
+text-decoration:none;
+font-size:0.8em;
+line-height:1.8em;
+}
+#others a:hover{
+font-size:0.8em;
+line-height:1.8em;
+color:#666666;
+}
+/*FORMS*/
+#inpUpload{
+opacity:0;
+-moz-opacity:0;
+filter:alpha(opacity=0);
+font-size:25px;
+height:25px;
+position:absolute;
+right:0px;
+top:0px;
+}
+#divUpload{
+overflow:hidden;
+width:125px;
+height:28px;
+position:absolute;
+background-image:url(../img/upload.png);
+left:-5px;
+position:relative;
+}
+#divUpload:hover{
+background-image:url(../img/uploadOn.png);
+}
+.input{
+width:200px;
+height:25px;
+background-color:#FFFFFF;
+color:#999999;
+font-size:11px;
+margin:2px;
+height:22px;
+border:0;
+border:solid #f2f2f2 1px;
+padding:2px;
+background-color:#FFFFFF;
+-moz-border-radius:2px;
+-chrome-border-radius:2px;
+-webkit-border-radius:2px;
+-ms-border-radius:2px;
+border-radius:2px;
+-moz-box-shadow: inset 1px 1px 2px lightgrey;
+-webkit-box-shadow: inset 1px 1px 2px lightgrey;
+-chrome-box-shadow: inset 1px 1px 2px lightgrey;
+-ms-box-shadow: inset 1px 1px 2px lightgrey;
+box-shadow: inset 1px 1px 2px lightgrey;
+left:2px;
+position:relative;
+}
+input[type="button"]{
+width:70px;
+}
+#showPhoto{
+width:204px;
+height:208px;
+margin-left:37px;
+}
+#sexlab{
+position:relative;
+margin-right:4px;
+top:3px;
+float: right;
+}
+#labMan, #labWom{
+position:relative;
+width:103px;
+display:block;
+float:right;
+text-align:center;
+}
+
+/*.ie #labMan{
+*top:-15px;
+*left:-100px;
+}
+.ie #labWom{
+*top:-35px;
+}
+
+.ie .linea{
+*margin-top:-14px;
+}
+
+.ie .continue{
+*margin-top:-35px;
+}*/
+
+.submit{
+width:60px;
+height:17px;
+}
+.posLabel{
+position:relative;
+left:-52px;
+top:19px;
+}
+.posLabel2{
+display:block;
+margin-bottom:3px;
+}
+.posLabel3{
+position:relative;
+left:-57px;
+top:19px;
+}
+/*SPECIAL SELECT*/
+#selectMenu{
+width: 205px;
+height:22px;
+border:1px solid #FFFFFF;
+background-color:#FFFFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+line-height:2;
+text-align:left;
+background-image:url(../bgUp.jpg);
+background-position:top;
+background-repeat:repeat-x;
+cursor:pointer;
+padding:0px;
+margin-left:4px;
+margin-bottom:3px;
+-moz-border-radius:3px;
+-o-border-radius:4x;
+-chrome-border-radius:3px;
+-webkit-border-radius:3px;
+-ms-border-radius:3px;
+-moz-box-shadow: inset 1px 1px 2px lightgrey;
+-webkit-box-shadow: inset 1px 1px 2px lightgrey;
+-chrome-box-shadow: inset 1px 1px 2px lightgrey;
+-ms-box-shadow: inset 1px 1px 2px lightgrey;
+box-shadow: inset 1px 1px 2px lightgrey;
+border-bottom:#f6f5f5 1px solid;
+border-right:#f6f5f5 1px solid;
+}
+.ie #selectMenu{
+border:#f6f5f5 1px solid;
+}
+#selectMenu span{
+display:block;
+width: 202px;
+height:22px;
+position:relative;
+float:left;
+background-image:url(../img/selBttn.png);
+background-position:center right;
+background-repeat:no-repeat;
+padding-left:2px;
+color:#999999;
+line-height:2;
+padding-top:1px;
+}
+#selectMenu span:hover{
+display:block;
+width: 202px;
+height:22px;
+position:relative;
+float:left;
+background-image:url(../img/selBttnUp.png);
+background-position:center right;
+background-repeat:no-repeat;
+}
+/***/
+#selectMenu #showIT, #showIT2, #showIT3{
+overflow:auto;
+max-height:250px;
+background-color:#FFFFFF;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+line-height:1.4;
+font-weight:normal;
+cursor:pointer;
+position:relative;
+left:-1px;
+margin-top:0;
+margin-left:-1;
+-moz-box-shadow: 1px 3px 2px #999;
+-webkit-box-shadow: 1px 3px 2px #999;
+-o-box-shadow: 1px 3px 2px #999;
+box-shadow: 1px 3px 2px #999;
+z-index:99;
+}
+
+.safari #selectMenu #showIT, .safari #showIT2,.safari #showIT3{
+width:204px;
+}
+.ie #selectMenu #showIT, .ie #showIT2, .ie #showIT3{
+width:204px;
+border:1px solid #CCCCCC;
+*height:250px;
+*left:286px;
+*position:absolute;
+*margin-top:25px;
+}
+.gecko #selectMenu #showIT, .gecko #showIT2, .gecko #showIT3{
+width:205px;
+}
+.chrome #selectMenu #showIT, .chrome #showIT2, .chrome #showIT3{
+width:206px;
+}
+.opera #selectMenu #showIT, .opera #showIT2, .opera #showIT3{
+width:206px;
+}
+#selectMenu #showIT ul, #showIT2 ul, #showIT3 ul{
+padding:0;
+margin:0;
+}
+#selectMenu #showIT ul li, #showIT2 ul li, #showIT3 ul li{
+list-style:none;
+margin-top:0;
+position:relative;
+padding-left:4px;
+}
+#selectMenu #showIT ul label, #showIT2 ul label, #showIT3 ul label{
+color:#006225;
+display:block;
+width:inherit;
+padding-left:2px;
+font-size:12px;
+}
+.dontshow{
+display:none;
+}
+#selectMenu ul li:hover{
+background-image:url(../img/selectbg.jpg);
+background-repeat:repeat-x;
+color:#FFFFFF;
+}
+
+
+#slideProfile{
+    clear: both;
+    float: left;
+    height: 80px;
+    margin-top: 2px;
+    overflow: hidden;
+    position: relative;
+    width: -moz-max-content;
+}
+
+.ie .lblRadio{
+background-position: center center;
+}
+.ie #playerFieldsForm .input{
+	top:8px;
+}
+.ie #playerFieldsForm #other_Hclub{
+	width:255px;
+}
+#date{
+	width:auto;
+	height:auto;
+}
+.ie #date{
+	width:380px;
+	height:auto;
+}
+.webkit #posit0,.ie #posit0{
+top: 70;
+*top: 73;
+left: 5px;
+}
+
+.ie #posit1,.webkit #posit1{
+top: 25px;
+left: 26px;
+*left: 21px;
+}
+.ie #posit2,.webkit #posit2{
+top: 51px;
+left: 8px;
+*left: -4px;
+}
+
+.ie #posit3,.webkit #posit3{
+top: 85px;
+left: -10px;
+*top: 95px;
+*left: -30px;
+}
+
+.ie #posit4,.webkit #posit4{
+top: 114px;
+left: -28px;
+*top: 120px;
+*left: -55px;
+}
+
+.ie #posit5,.webkit #posit5{
+top: 47px;
+left: 7px;
+*top: 50px;
+*left: -28px;
+}
+
+.ie #posit6,.webkit #posit6{
+top: 94px;
+left: -11px;
+*top: 97px;
+*left: -53px;
+}
+
+.ie #posit7,.webkit #posit7{
+top: 24px;
+left: -5px;
+*left: -45px;
+}
+
+.ie #posit8,.webkit #posit8{
+top: 112px;
+left: -23px;
+*top: 100px;
+*left: 130px;
+}
+
+.webkit #posit9,.ie #posit9{
+top: 70px;
+left: -4px;
+*top: 53px;
+*left: 135px;
+}
+
+.webkit #posit10,.ie #posit10{
+top: 70px;
+left: -2px;
+*top: 53px;
+*left: 130px;
+}

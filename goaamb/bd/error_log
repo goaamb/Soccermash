@@ -1,0 +1,2 @@
+[14-Dec-2012 13:37:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/goaamb/util/util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/goaamb/bd/conexion.php on line 10
+[14-Dec-2012 13:42:19] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/goaamb/util/util.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/goaamb/bd/conexion.php on line 10

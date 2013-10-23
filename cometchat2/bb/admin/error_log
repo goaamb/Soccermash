@@ -1,0 +1,10 @@
+[12-Oct-2011 08:07:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/goaamb/bd/conexion.php:255
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/goaamb/idioma.php(99): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/cometchat2/integration.php(17): Idioma::darLenguaje()
+#4 /home/soccer/public_html/cometchat2/config.php(7): include('/home/soccer/pu...')
+#5 /home/soccer/public_html/cometchat2/admin/index.php(56): include_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/conexion.php on line 255

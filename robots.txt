@@ -1,0 +1,22 @@
+User-agent: *
+Disallow: /it/component/
+Disallow: /en/component/
+Disallow: /el/component/
+Disallow: /es/sitemedia/
+Disallow: /component/
+Disallow: /pt/component/
+Disallow: /es/profile/
+Disallow: /de/component/
+Allow: /
+Disallow: /fr/component/
+Disallow: /es/grupos/
+Disallow: /searchown/
+Disallow: /profile/
+Disallow: /groups/
+Disallow: /es/component/
+Disallow: /en/profile/
+Disallow: /en/sitemedia/
+Disallow: /index.php/
+Disallow: /fr/profile/
+Disallow: /el/profile/
+

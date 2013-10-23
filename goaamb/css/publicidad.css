@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+
+.buscarPais {
+	width: 150px;
+	height: 16px;
+}
+
+.capaBuscador {
+	height: 22px;
+	position: relative;
+	clear: both;
+}
+
+#listaPaises {
+	display: none;
+	position: absolute;
+	top: 22px;
+	height: 150px;
+	left: 0px;
+	width: 150px;
+	z-index: 1;
+}
+
+.capaPaises {
+	float: left;
+	position: relative;
+	padding: 5px 10px 5px 5px;
+	border: 1px solid #CCC;
+	border-radius: 3px;
+	-moz-border-radius: 3px;
+}
+
+.capaPaises .cerrar {
+	position: absolute;
+	padding: 2px;
+	right: 2px;
+	top: 2px;
+	border-radius: 2px;
+	-moz-border-radius: 2px;
+	background-color: #CCC;
+	cursor: pointer;
+	font-size: 8px;
+}

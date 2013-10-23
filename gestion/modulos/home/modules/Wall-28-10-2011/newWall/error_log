@@ -1,0 +1,9 @@
+[29-Jul-2011 07:43:04] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/consultas.php on line 59
+[29-Jul-2011 09:38:42] PHP Parse error:  syntax error, unexpected ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/consultas.php on line 111
+[29-Jul-2011 09:39:35] PHP Parse error:  syntax error, unexpected ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/consultas.php on line 192
+[29-Jul-2011 10:47:08] PHP Fatal error:  Non-abstract method Publication::selectComment() must contain body in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 80
+[29-Jul-2011 10:48:33] PHP Fatal error:  Non-abstract method Publication::selectComment() must contain body in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 80
+[29-Jul-2011 10:49:56] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 90
+[29-Jul-2011 10:57:33] PHP Notice:  Undefined variable: oDB in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 85
+[29-Jul-2011 10:58:34] PHP Parse error:  syntax error, unexpected '[', expecting T_STRING or T_VARIABLE or '{' or '$' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 85
+[29-Jul-2011 11:09:48] PHP Parse error:  syntax error, unexpected '{' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/agWall.php on line 84

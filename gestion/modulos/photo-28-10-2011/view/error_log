@@ -1,0 +1,29 @@
+[27-Aug-2011 09:25:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:250
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/pruebagral/goaamb/idioma.php(93): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#4 /home/soccer/public_html/pruebagral/gestion/modulos/photo/photoClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/pruebagral/gestion/modulos/photo/view/photoSlider.php(27): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 250
+[27-Aug-2011 09:25:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php:250
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/pruebagral/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/pruebagral/goaamb/idioma.php(93): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/pruebagral/gestion/lib/share/clases/lib_util.inc.php(15): Idioma::darLenguaje()
+#4 /home/soccer/public_html/pruebagral/gestion/modulos/photo/photoClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/pruebagral/gestion/modulos/photo/view/photoSlider.php(27): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/pruebagral/goaamb/bd/conexion.php on line 250
+[31-Aug-2011 08:40:10] PHP Parse error:  syntax error, unexpected T_STRING, expecting T_FUNCTION in /home/soccer/public_html/goaamb/idioma.php on line 92
+[19-Oct-2011 12:46:12] PHP Fatal error:  Uncaught exception 'MLFieldNotDefinedException' with message 'El Campo Hash no esta defininido' in /home/soccer/public_html/lab1/goaamb/bd/modelloader.php:134
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(138): ModelLoader->__campo('hash')
+#1 /home/soccer/public_html/lab1/goaamb/idioma.php(43): ModelLoader->__get('hash')
+#2 /home/soccer/public_html/lab1/goaamb/idioma.php(143): Idioma->__construct('es-ES')
+#3 /home/soccer/public_html/lab1/gestion/modulos/photo/view/photoSlider.php(29): Idioma::darLenguaje()
+#4 {main}
+  thrown in /home/soccer/public_html/lab1/goaamb/bd/modelloader.php on line 134

@@ -1,0 +1,12 @@
+/*****************************/
+/*********** Logic Tpl Home ******************/
+
+-Aqui se se encuentra los tpl de los distintos perfiles
+existentes en SM que se muestran en el archivo home.php(ppal).
+
+Los archivos tpl se identifican con el nombre instanceHome_$iPerfil.tpl.php,
+donde $iPerfil sera una var que identifique el perfil correspondiente con el 
+identificatorio en la tabla relacionada.
+
+/*********************************************/
+

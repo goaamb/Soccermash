@@ -1,0 +1,54 @@
+[19-Jul-2011 12:27:29] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[19-Jul-2011 12:27:29] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[19-Jul-2011 12:27:29] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 79
+[19-Jul-2011 12:27:33] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[19-Jul-2011 12:27:33] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[19-Jul-2011 12:27:33] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 49
+[19-Jul-2011 13:47:32] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[19-Jul-2011 13:47:32] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[19-Jul-2011 13:47:32] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 142
+[19-Jul-2011 13:47:32] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest2/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[19-Jul-2011 14:58:00] PHP Parse error:  syntax error, unexpected T_ENCAPSED_AND_WHITESPACE, expecting T_STRING or T_VARIABLE or T_NUM_STRING in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/load_publications.php on line 299
+[19-Jul-2011 15:05:01] PHP Parse error:  syntax error, unexpected T_ECHO, expecting ',' or ';' in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/load_publications.php on line 594
+[20-Jul-2011 17:44:46] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[20-Jul-2011 17:44:46] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[20-Jul-2011 17:44:46] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 79
+[20-Jul-2011 17:47:07] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[20-Jul-2011 17:47:07] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[20-Jul-2011 17:47:07] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 79
+[20-Jul-2011 17:47:13] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[20-Jul-2011 17:47:13] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[20-Jul-2011 17:47:13] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 79
+[20-Jul-2011 17:47:18] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[20-Jul-2011 17:47:18] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[20-Jul-2011 17:47:18] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 49
+[21-Jul-2011 07:45:31] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[21-Jul-2011 07:45:31] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[21-Jul-2011 07:45:31] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 142
+[21-Jul-2011 07:45:31] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest2/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[21-Jul-2011 07:45:45] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[21-Jul-2011 07:45:45] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[21-Jul-2011 07:45:45] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 124
+[21-Jul-2011 07:45:45] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest2/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[21-Jul-2011 12:48:35] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[21-Jul-2011 12:48:35] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[21-Jul-2011 12:48:35] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/classWall.php on line 124
+[21-Jul-2011 12:48:35] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest2/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[22-Jul-2011 07:42:54] PHP Parse error:  syntax error, unexpected $end in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/Wall/load_publications.php on line 818
+[26-Jul-2011 09:19:20] PHP Fatal error:  Call to undefined function  selecttable() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/load_publications.php on line 259
+[27-Jul-2011 16:06:31] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[27-Jul-2011 16:06:31] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[27-Jul-2011 16:06:31] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 142
+[27-Jul-2011 16:06:31] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest3/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[27-Jul-2011 16:06:35] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 21
+[27-Jul-2011 16:06:35] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 35
+[27-Jul-2011 16:06:35] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 124
+[27-Jul-2011 16:06:35] PHP Catchable fatal error:  Object of class CLASS_MainError could not be converted to string in /home/soccer/public_html/soccermashTest3/gestion/lib/share/clases/class_main_error.inc.php on line 126
+[28-Jul-2011 09:20:50] PHP Warning:  Missing argument 2 for GenerateDelete(), called in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 210 and defined in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/classAndres.php on line 91
+[28-Jul-2011 09:20:50] PHP Warning:  Missing argument 3 for GenerateDelete(), called in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 210 and defined in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/classAndres.php on line 91
+[28-Jul-2011 09:20:50] PHP Notice:  Undefined variable: aRow in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/classAndres.php on line 93
+[28-Jul-2011 09:20:50] PHP Notice:  Undefined variable: idUser in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/classAndres.php on line 93
+[28-Jul-2011 10:07:42] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 398
+[28-Jul-2011 10:07:46] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 398
+[28-Jul-2011 10:07:48] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 398
+[28-Jul-2011 10:07:57] PHP Parse error:  syntax error, unexpected ';', expecting T_FUNCTION in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Wall/classWall.php on line 398

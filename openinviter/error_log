@@ -1,0 +1,6 @@
+[28-Oct-2011 12:39:31] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/lab2/openinviter/saveInvitesClass.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/lab2/openinviter/invite.php on line 16
+[28-Oct-2011 12:58:11] PHP Fatal error:  Uncaught exception 'QMailExeption' with message 'El archivo: /templatemail/sendInvites.en-US.tpl, no existe' in /home/soccer/public_html/lab2/goaamb/mail/qmail.php:89
+Stack trace:
+#0 /home/soccer/public_html/lab2/openinviter/invite.php(180): QMail::add('inviteUser', 'sebavolta@yahoo...', '{Contact Invita...', '/templatemail/s...', Array, 'Sistema')
+#1 {main}
+  thrown in /home/soccer/public_html/lab2/goaamb/mail/qmail.php on line 89

@@ -1,0 +1,1 @@
+<img src="http://c577808.r8.cf2.rackcdn.com/images_aver.png" />

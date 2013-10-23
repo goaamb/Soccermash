@@ -1,0 +1,91 @@
+[23-Sep-2011 13:27:41] PHP Parse error:  syntax error, unexpected $end in /home/soccer/public_html/lab1/gestion/modulos/home/msgs/rss/rss/rsslib.php on line 144
+[12-Oct-2011 07:54:27] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/goaamb/bd/conexion.php:255
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/goaamb/idioma.php(99): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#4 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/gestion/modulos/home/msgs/rss/rss.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/conexion.php on line 255
+[14-Oct-2011 12:34:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/publi in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[14-Oct-2011 12:34:05] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/publi in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[14-Oct-2011 13:09:33] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "show create table ax_traduccion", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(302): GConexion->consulta('show create tab...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(218): GConexion->obtenerUnicas('ax_traduccion')
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_traduccion')
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_traduccion')
+#4 /home/soccer/public_html/goaamb/idioma.php(35): ModelLoader::crear('ax_traduccion')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#8 /home/soccer/publi in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[12-Dec-2011 10:32:36] PHP Warning:  PHP Startup: (null): Unable to initialize module
+Module compiled with module API=20020429, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Dec-2011 10:44:52] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/liblpssl.so' - libstdc++.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Dec-2011 10:44:52] PHP Warning:  PHP Startup: (null): Unable to initialize module
+Module compiled with module API=20020429, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[12-Dec-2011 12:23:14] PHP Warning:  PHP Startup: Unable to load dynamic library '/usr/local/lib/php/extensions/no-debug-non-zts-20060613/liblpssl.so' - libstdc++.so.5: cannot open shared object file: No such file or directory in Unknown on line 0
+[12-Dec-2011 12:23:14] PHP Warning:  PHP Startup: (null): Unable to initialize module
+Module compiled with module API=20020429, debug=0, thread-safety=0
+PHP    compiled with module API=20060613, debug=0, thread-safety=0
+These options need to match
+ in Unknown on line 0
+[14-Dec-2012 07:01:17] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/goaamb/bd/conexion.php:256
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/goaamb/idioma.php(119): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#4 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/gestion/modulos/home/msgs/rss/rss.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/conexion.php on line 256
+[16-Dec-2012 14:53:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/goaamb/bd/conexion.php:256
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/goaamb/idioma.php(119): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#4 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/gestion/modulos/home/msgs/rss/rss.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/conexion.php on line 256
+[16-Dec-2012 14:53:25] PHP Fatal error:  Uncaught exception 'Exception' with message 'La conexion no fue establecida' in /home/soccer/public_html/goaamb/bd/conexion.php:256
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(37): GConexion->obtenerColumnasTabla('ax_language')
+#1 /home/soccer/public_html/goaamb/bd/modelloader.php(28): ModelLoader->__construct('ax_language')
+#2 /home/soccer/public_html/goaamb/idioma.php(119): ModelLoader::crear('ax_language')
+#3 /home/soccer/public_html/gestion/lib/share/clases/lib_util.inc.php(16): Idioma::darLenguaje()
+#4 /home/soccer/public_html/gestion/modulos/profile/profileClass.php(5): require_once('/home/soccer/pu...')
+#5 /home/soccer/public_html/gestion/modulos/home/msgs/rss/rss.php(3): require_once('/home/soccer/pu...')
+#6 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/conexion.php on line 256

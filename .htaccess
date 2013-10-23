@@ -1,0 +1,101 @@
+AddType application/x-httpd-php52 .php
+RewriteEngine On
+RewriteBase /
+
+
+
+#ErrorDocument 404 http://www.soccermash.com/error404.php
+
+RewriteCond %{REQUEST_URI} ^(/[^/]+)?/component/
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^(/[^/]+)?/inicio/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/searchown/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/es/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/en/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/pt/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/ru/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/it/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/fr/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/de/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/ar/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/el/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/zh/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/legalnotice/?
+RewriteRule (.*) error404.php [L]
+
+RewriteCond %{REQUEST_URI} ^/profile/?
+RewriteRule (.*) error404.php [L]
+
+
+RewriteRule ^([^/]+/)+index.php$ /index.php [R]
+RewriteRule ^([^/]+/)+home.php$ /home.php [R]
+
+
+RewriteRule ^usuario/?$ /home.php [L]
+RewriteRule ^user/?$ /home.php [L]
+
+RewriteRule ^usuario/(\d+)(-[^\?]*)?$ /home.php?user=$1 [L]
+RewriteRule ^user/(\d+)(-[^\?]*)?$ /home.php?user=$1 [L]
+
+RewriteRule ^([^/]+/)+ajax/(.*)$ /ajax/$2 [L]
+RewriteRule ^([^/]+/)+photoGeneral/(.*)$ /photoGeneral/$2 [L]
+RewriteRule ^([^/]+/)+photoVideo/(.*)$ /photoVideo/$2 [L]
+RewriteRule ^([^/]+/)+photoPhoto/(.*)$ /photoPhoto/$2 [L]
+
+RewriteCond %{REQUEST_URI} !^/([^/]+/)*goaamb
+RewriteCond %{REQUEST_URI} !^/([^/]+/)*gestion
+RewriteRule ^([^/]+/)+css/(.*)$ /css/$2 [L]
+
+RewriteCond %{REQUEST_URI} !^/([^/]+/)*goaamb
+RewriteCond %{REQUEST_URI} !^/([^/]+/)*gestion
+RewriteRule ^([^/]+/)+js/(.*)$ /js/$2 [L]
+
+RewriteRule ^([^/]+/)+goaamb/(.*)$ /goaamb/$2 [L]
+RewriteRule ^([^/]+/)+gestion/(.*)$ /gestion/$2 [L]
+RewriteRule ^([^/]+/)+cometchat2/(.*)$ /cometchat2/$2 [L]
+RewriteRule ^([^/]+/)+files/(.*)$ /files/$2 [L]
+
+RewriteCond %{REQUEST_URI} !^/([^/]+/)*gestion
+RewriteRule ^([^/]+/)+img/(.*)$ /img/$2 [L]
+
+RewriteRule ^([^/]+/)+Plugins/(.*)$ /Plugins/$2 [L]
+
+<IfModule mod_php5.c>
+php_value auto_append_file "google_verify.php"
+</IfModule>
+
+<IfModule mod_php4.c>
+php_value auto_append_file "google_verify.php"
+</IfModule>
+
+<Files 403.shtml>
+order allow,deny
+allow from all
+</Files>
+
+deny from 41.155.0.0/24

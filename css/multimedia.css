@@ -1,0 +1,53 @@
+.posDelMulti{
+position:absolute; 
+margin-left:165px;
+margin-top:2px;
+z-index:20;
+}
+.delMulti{
+height:20px;
+width:20px;
+background:url(../img/cross_off.png) no-repeat;
+cursor:pointer;
+}
+
+#delMulti:hover{ 
+background:url(../img/cross.png) no-repeat;
+}
+
+
+/* COMMENTS */
+.posDelComment{
+float:right; 
+padding-right:8px;
+}
+#delComment:hover{ 
+background:url(../img/cross.png) no-repeat;
+}
+
+
+
+/*/////VIDEO CONTAINER/////*/ 
+.vidContain{
+height: 331px;
+position: relative;
+width: 589px;
+margin-top:20px;
+}
+
+
+
+/* LUPA SEARCH */
+#lupaSearch{
+	background: url(../img/lupa0.png);
+    height: 20px;
+    left: 164px;
+	margin-top: -21px;
+    position: relative;
+    width: 21px;
+	cursor:pointer;
+}
+
+#lupaSearch:hover{
+background:url(../img/lupa1.png);
+}

@@ -1,0 +1,187 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:0.8em;
+color:#868585;
+}
+a:link, a:visited, p, label, #createIt{
+font-size:0.8em;
+color:#979696;
+text-decoration:none;
+}
+a:hover, #createIt:hover{
+font-size:0.8em;
+color:#c4c4c4;
+text-decoration:underline;
+}
+.txtRight{
+text-align:right
+}
+.txtLeft{
+text-align:left;
+}
+.cleared{
+clear:both;
+}
+hr{
+background-color:#CCCCCC;
+height:1px;
+>line-height:3px;
+width:95%;
+border:0;
+margin:auto;
+clear:both;
+}
+.alerts{
+color:#f2b431;
+font-size:11px;
+}
+/*PLAY FIELDS*/
+#playField{
+width:205px;
+height:157px;
+background-image:url(../img/field.png);
+background-repeat:no-repeat;
+}
+#playField:hover{
+background-image:url(../img/fieldOn.png);
+}
+.spCheck, .spRadio{
+opacity:0;
+filter:alpha(opacity=0);
+position:relative;
+left:0px;
+top:1px;
+cursor:pointer;
+}
+.lblField{
+background-image:url(../img/posOff.png);
+background-repeat:no-repeat;
+cursor:pointer;
+}
+.lblField2{
+background-image:url(../img/posOn.png);
+}
+.lblRadio{
+background-image:url(../img/radio-off.png);
+background-repeat:no-repeat;
+cursor:pointer;
+}
+.lblRadio2{
+background-image:url(../img/radio-on.png);
+}
+#posit0{
+position:relative;
+top:70px;
+left:7px;
+}
+#posit1{
+position:relative;
+top:25px;
+left:30px;
+}
+#posit2{
+position:relative;
+top:55px;
+left:12px;
+}
+#posit3{
+position:relative;
+top:85px;
+left:-6px;
+}
+#posit4{
+position:relative;
+top:115px;
+left:-24px;
+}
+#posit5{
+position:relative;
+top:48px;
+left:8px;
+}
+#posit6{
+position:relative;
+top:93px;
+left:-10px;
+}
+#posit7{
+position:relative;
+top:25px;
+left:5px;
+}
+#posit8{
+position:relative;
+top:115px;
+left:-13px;
+}
+#posit9{
+position:relative;
+top:71px;
+left:-2px;
+}
+#posit10{
+position:relative;
+top:71px;
+left:-1px;
+}
+.opera #posit0{
+position:relative;
+top:73px;
+left:7px;
+}
+.opera #posit1{
+position:relative;
+top:28px;
+left:30px;
+}
+.opera #posit2{
+position:relative;
+top:58px;
+left:12px;
+}
+.opera #posit3{
+position:relative;
+top:88px;
+left:-6px;
+}
+.opera #posit4{
+position:relative;
+top:118px;
+left:-24px;
+}
+.opera #posit5{
+position:relative;
+top:51px;
+left:8px;
+}
+.opera #posit6{
+position:relative;
+top:96px;
+left:-10px;
+}
+.opera #posit7{
+position:relative;
+top:28px;
+left:5px;
+}
+.opera #posit8{
+position:relative;
+top:118px;
+left:-13px;
+}
+.opera #posit9{
+position:relative;
+top:73px;
+left:-2px;
+}
+.opera #posit10{
+position:relative;
+top:73px;
+left:-1px;
+}
+a.linkWall{
+	font-size: 10px;
+}
+/*END*/

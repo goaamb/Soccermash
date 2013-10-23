@@ -1,0 +1,48 @@
+[18-Jul-2011 10:41:38] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 10:41:38] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 10:57:07] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 10:57:07] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 11:11:15] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 11:11:15] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 17:53:40] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 17:53:40] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 17:53:41] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Jul-2011 17:53:41] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Jul-2011 11:01:57] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Jul-2011 11:01:57] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Jul-2011 23:26:41] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Jul-2011 23:26:41] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest2/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Jul-2011 11:03:02] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Jul-2011 11:03:02] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[26-Jul-2011 09:17:31] PHP Fatal error:  Call to undefined function  selecttable() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/listarNews.php on line 84
+[26-Jul-2011 09:19:18] PHP Fatal error:  Call to undefined function  selecttable() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/listarNews.php on line 84
+[27-Jul-2011 09:14:15] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[27-Jul-2011 09:14:15] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[29-Jul-2011 12:15:02] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[29-Jul-2011 12:15:02] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[29-Jul-2011 12:41:59] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[29-Jul-2011 12:41:59] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 20
+[15-Aug-2011 09:50:59] PHP Parse error:  syntax error, unexpected T_ELSE in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 25
+[15-Aug-2011 09:51:11] PHP Parse error:  syntax error, unexpected T_ELSE in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/News/classNews.php on line 25
+[16-Aug-2011 08:15:58] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[16-Aug-2011 08:15:58] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[16-Aug-2011 18:40:36] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[16-Aug-2011 18:40:36] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[17-Aug-2011 16:09:32] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[17-Aug-2011 16:09:32] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Aug-2011 16:19:14] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Aug-2011 16:19:14] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Aug-2011 16:19:14] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[18-Aug-2011 16:19:14] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[19-Aug-2011 18:07:34] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[19-Aug-2011 18:07:34] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Aug-2011 03:58:01] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Aug-2011 03:58:01] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Aug-2011 09:23:16] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[22-Aug-2011 09:23:16] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Aug-2011 06:28:41] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Aug-2011 06:28:41] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Aug-2011 12:11:22] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[23-Aug-2011 12:11:22] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[24-Aug-2011 15:12:37] PHP Notice:  Undefined index:  addTitleag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20
+[24-Aug-2011 15:12:37] PHP Notice:  Undefined index:  addDescriptionag in /home/soccer/public_html/pruebagral/gestion/modulos/home/modules/News/classNews.php on line 20

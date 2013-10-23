@@ -1,0 +1,115 @@
+[26-Jul-2011 09:17:31] PHP Fatal error:  Call to undefined function  selecttable() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Observation/listarObservation.php on line 74
+[26-Jul-2011 09:19:19] PHP Fatal error:  Call to undefined function  selecttable() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/modules/Observation/listarObservation.php on line 74
+[28-Aug-2011 10:44:01] PHP Fatal error:  Call to a member function traducir() on a non-object in /home/soccer/public_html/backup/gestion/modulos/home/modules/Observation/listarObservation.php on line 178
+[28-Aug-2011 10:44:42] PHP Fatal error:  Call to a member function traducir() on a non-object in /home/soccer/public_html/backup/gestion/modulos/home/modules/Observation/listarObservation.php on line 178
+[05-Sep-2011 12:38:48] PHP Parse error:  syntax error, unexpected T_ECHO in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 159
+[05-Sep-2011 12:39:38] PHP Parse error:  syntax error, unexpected T_ECHO in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 159
+[05-Sep-2011 12:44:01] PHP Notice:  Undefined variable: _IDIOMAS in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 159
+[05-Sep-2011 12:44:01] PHP Fatal error:  Call to a member function trudcir() on a non-object in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 159
+[05-Sep-2011 12:47:24] PHP Notice:  Undefined variable: _IDIOMAS in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:47:24] PHP Fatal error:  Call to a member function trudcir() on a non-object in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:47:53] PHP Notice:  Undefined variable: _IDIOMAS in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:47:53] PHP Fatal error:  Call to a member function trudcir() on a non-object in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:48:21] PHP Notice:  Undefined variable: _IDIOMAS in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:48:21] PHP Fatal error:  Call to a member function trudcir() on a non-object in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:48:48] PHP Notice:  Undefined variable: _IDIOMAS in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:48:48] PHP Fatal error:  Call to a member function trudcir() on a non-object in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 171
+[05-Sep-2011 12:49:09] PHP Fatal error:  Call to undefined method Idioma::trudcir() in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 163
+[05-Sep-2011 12:49:26] PHP Fatal error:  Call to undefined method Idioma::trudcir() in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 163
+[05-Sep-2011 18:41:40] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[05-Sep-2011 18:41:40] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[05-Sep-2011 18:41:42] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[05-Sep-2011 18:41:42] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[05-Sep-2011 18:41:42] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[05-Sep-2011 18:41:42] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[05-Sep-2011 18:41:46] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[05-Sep-2011 18:41:46] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[06-Sep-2011 19:34:07] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[06-Sep-2011 19:34:07] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[06-Sep-2011 19:34:10] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[06-Sep-2011 19:34:10] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[08-Sep-2011 14:45:33] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 41
+[08-Sep-2011 14:45:34] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 99
+[15-Sep-2011 16:10:09] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:10:33] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:15:07] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:15:35] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:16:00] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:16:55] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:47:57] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[15-Sep-2011 16:48:32] PHP Notice:  Undefined variable: cv in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/listarObservation.php on line 80
+[19-Sep-2011 14:15:25] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 47
+[19-Sep-2011 14:15:25] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 48
+[19-Sep-2011 14:15:25] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 62
+[20-Sep-2011 06:35:27] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 47
+[20-Sep-2011 06:35:27] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 48
+[20-Sep-2011 06:35:27] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/listarObservation.php on line 62
+[06-Oct-2011 10:38:29] PHP Warning:  preg_replace() [<a href='function.preg-replace'>function.preg-replace</a>]: No ending matching delimiter '&gt;' found in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/sOb.php on line 19
+[06-Oct-2011 11:32:15] PHP Parse error:  syntax error, unexpected ';' in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/sOb.php on line 56
+[06-Oct-2011 11:32:20] PHP Parse error:  syntax error, unexpected ';' in /home/soccer/public_html/lab2/gestion/modulos/home/modules/Observation/sOb.php on line 56
+[07-Oct-2011 15:28:25] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 16:22:17] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 16:43:04] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 16:57:57] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 16:57:59] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 17:01:27] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 17:43:53] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 17:55:24] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 18:03:38] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 18:05:47] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[07-Oct-2011 18:05:52] PHP Notice:  Undefined index:  type in /home/soccer/public_html/lab1/gestion/modulos/home/modules/Observation/sOb.php on line 16
+[11-Oct-2011 08:48:04] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[11-Oct-2011 08:48:04] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[11-Oct-2011 08:48:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[14-Oct-2011 12:34:02] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_traduccion where language='4' ", Table 'soccer_migracion.ax_traduccion' doesn't exist' in /home/soccer/public_html/goaamb/bd/conexion.php:61
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(113): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(93): GConexion->seleccionar('ax_traduccion', Array, 'language='4'', 0, -1, true)
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(152): GConexion->seleccionarAsociado('ax_traduccion', Array, 'language='4'', 0, -1)
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(174): ModelLoader->seleccionar(Array, 'language='4'', 0, -1)
+#4 /home/soccer/public_html/goaamb/idioma.php(39): ModelLoader->listar('language='4'')
+#5 /home/soccer/public_html/goaamb/idioma.php(136): Idioma->__construct('es-ES')
+#6 /home/soccer/public_html/gestion/modulos/home/modules/classAndres.php(15): Idioma::darLenguaje()
+#7 /home/soccer/public_html/gesti in /home/soccer/public_html/goaamb/bd/conexion.php on line 61
+[15-Oct-2011 20:57:51] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[15-Oct-2011 20:57:51] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[15-Oct-2011 20:57:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[16-Oct-2011 07:23:24] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[16-Oct-2011 07:23:24] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[16-Oct-2011 07:23:24] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[16-Oct-2011 20:47:29] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[16-Oct-2011 20:47:29] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[16-Oct-2011 20:47:29] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 17:33:46] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 17:33:46] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 17:33:46] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 18:17:47] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 18:17:47] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 18:17:47] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:25:51] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:25:51] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:25:51] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:30:15] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:30:15] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:30:15] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:30:53] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:30:53] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:30:53] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:33:44] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:33:44] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:33:44] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:37:05] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:37:05] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:37:05] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:40:38] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:40:38] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:40:38] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:47:04] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:47:04] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:47:04] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:51:59] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:51:59] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:51:59] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72
+[17-Oct-2011 23:55:06] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 57
+[17-Oct-2011 23:55:06] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 58
+[17-Oct-2011 23:55:06] PHP Warning:  mysql_num_rows(): supplied argument is not a valid MySQL result resource in /home/soccer/public_html/gestion/modulos/home/modules/Observation/listarObservation.php on line 72

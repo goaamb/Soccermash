@@ -1,0 +1,601 @@
+.theMsgsS{
+position: absolute; 
+z-index: 2000; 
+margin-top: -20px; 
+width: 589px;
+height:auto; 
+overflow:hidden; 
+background:#FFFFFF;
+}
+
+.theMsgsSPriv{
+position: absolute; 
+z-index: 2000; 
+margin-top: -20px; 
+width: 589px;
+height:auto; 
+overflow:hidden; 
+background:#FFFFFF;
+}
+
+
+.msgsTitle{
+margin-top: 11px; 
+margin-left: 11px; 
+width: 67px;
+height:20px;
+margin-bottom:3px;
+font-weight: bold;
+}
+
+.msgCont{
+height:64px;
+}
+.flwCont,.flwContNew {
+    height: 74px;
+}
+.msgCont:hover,.flwCont:hover{
+	background:#b0b0b0;
+}
+
+.msgContNew,.flwContNew{
+	background:#ebede8;
+}
+
+.flwCont .theMsgText {
+    color: #BBBBBB;
+    letter-spacing: -1px;
+    margin-left: 82px;
+    margin-top: -58px;
+    overflow: hidden;
+    width: 355px;
+    height: auto;
+}
+.flwCont .dateMsg {
+    color: #BBBBBB;
+    display: inline;
+    font-size: 11px;
+    letter-spacing: -1px;
+    margin-left: 83px;
+    margin-top: 22px;
+    position: relative;
+    top: 4px;
+}
+.flwCont .linksF{
+	float: right;
+    font-weight: bold;
+    margin: 5px 5px 0;
+}
+
+.flwCont:hover .nameMsg,.flwCont:hover .theMsgText,.flwCont:hover .dateMsg,.flwCont:hover .linksF{
+	color:#f3f3f3;
+}
+.flwContNew .nameMsg,.flwContNew .theMsgText,.flwContNew .dateMsg{
+	color:#4e4e4e;
+}
+.flwContNew .nameMsg,.flwCont:hover .nameMsg,.flwContNew .nameMsg{
+	padding-right: 0;
+}
+.borMsg{
+width: 589px;
+border-top: thin solid rgb(238, 238, 238);
+height: 4px;
+/*margin-top: -1px;*/
+}
+
+
+.fotPeq{
+height: 50px; 
+width: 50px; 
+margin-left: 12px; 
+margin-top: 2px;
+overflow: hidden;
+width: 50px;
+}
+.fotPeqF {
+    height: 64px;
+    margin-left: 12px;
+    overflow: hidden;
+    width: 64px;
+}
+
+.theMsgText{
+margin-top: -50px; 
+margin-left: 72px; 
+letter-spacing: -1px; 
+height:30px; 
+overflow:hidden;
+color:#BBBBBB;
+width:457px;
+}
+
+.nameMsg{
+float: left;
+padding-right:7px;
+margin-top:1px;
+font-weight: bold; letter-spacing: -1px; font-size: 12px; color: rgb(64, 137, 91);
+cursor:pointer;
+}
+.nameMsg:hover{
+text-decoration:underline;
+}
+.closeMsg{
+width: 8px; height: 7px; background: url(../img/closeMsgList.png) no-repeat; float: right; margin-top: -8px; margin-right: 18px; cursor:pointer;
+}
+.closeMsg:hover{
+background: url(../img/closeMsgListOn.png) no-repeat;
+}
+.readMsg{
+float: right; background: url(../img/noLedido.png) no-repeat; width: 10px; height: 9px; margin-right: 36px; margin-top: -10px; cursor:pointer;
+}
+.readMsg:hover{
+background:url(../img/noLeidoOver.png) no-repeat;
+}
+.footMsg{
+height: 57px; background:#dddede;
+}
+
+.seeAllMsg{
+display: inline; float: left; margin-left: 72px; margin-top: 23px; 
+}
+.seeAllMsg a{
+font-weight: bold; letter-spacing: -1px; font-size: 11px; color: rgb(64, 137, 91);text-decoration:none;
+}
+
+.advMsg{
+float: right; height: 55px; width: 220px;
+}
+
+.imgAdv{
+float: right; width: 50px; height: 50px; margin-right: 10px; margin-top: 3px;
+}
+
+.titAdv{
+float: right; height: 18px; text-align: right; width: 142px; margin-right: 17px;  margin-top: 3px;
+
+}
+
+.titAdv a{
+color: rgb(64, 137, 91);
+font-weight: bold;
+letter-spacing: -1px;
+text-decoration:none;
+font-size:12px;
+}
+
+.txtAdv{
+float: right; height: 18px; text-align: right; margin-right: 17px; margin-top: -3px; width: 142px;
+}
+.txtAdv a{
+letter-spacing: -1px;
+text-decoration:none;
+font-size:12px;
+}
+
+.txtAdv2{
+float: right; height: 18px; text-align: right; margin-right: 17px;  margin-top: -3px; width: 142px;
+}
+.txtAdv2 a{
+letter-spacing: -1px;
+text-decoration:none;
+font-size:12px;
+}
+
+.dateMsg{
+color: #BBBBBB;
+display: inline;
+font-size: 11px;
+letter-spacing: -1px;
+margin-left: 71px;
+position: relative;
+top: 4px;
+}
+
+.borderMsgAdv{
+border-left: thin solid #CCCCCC;
+height: 48px;
+margin-top: 4px;
+position: relative;
+width: 5px;
+}
+
+.bordersRed{
+-moz-border-radius:4px;
+-webkit-border-radius:4px;
+-chrome-border-radius:4px;
+-ms-border-radius:4px;
+-o-border-radius:4px;
+border-radius:4px;
+}
+
+.shadMsg{
+background:url(../img/shadowMsg.png) no-repeat transparent; height:2px;
+}
+
+.advertisingWord{
+    color: #FFFFFF;
+    display: inline;
+    float: left;
+    font-size: 12px;
+    font-weight: bold;
+    letter-spacing: -1px;
+    margin-left: 287px;
+    margin-top: -53px;
+}
+
+
+
+
+/*  Alert buttons  */ 
+
+.receivedMsgWallS{
+position: absolute; background: url(../img/mensaje_recibido.png) no-repeat; 
+margin-left: 104px;
+width: 32px; 
+height: 39px; 
+top: 3px;
+cursor:pointer;
+z-index:2;
+}
+.noneMsgWallS{
+position: absolute; 
+width: 20px; 
+height: 20px; 
+background: url(../img/mensaje_reposo.png) no-repeat; 
+margin-left: 104px;
+top: 19px;
+cursor:pointer;
+z-index:2;
+}
+.noneMsgWallS:hover{
+background: url(../img/mensaje_over.png) no-repeat; 
+}
+
+.numReceivedMsgWallS{
+color: #FFFFFF;
+font-size: 11px;
+font-weight: bold;
+height: 15px;
+margin-left: 108px;
+letter-spacing: -2px;
+position: absolute;
+text-align: center;
+top: 4px;
+width: 18px;
+z-index:3;
+}
+
+.bgMsgsWS{
+position: absolute; background: url(../img/bgAvisos.png) no-repeat; width: 44px; z-index: 1; top: 0px; height: 40px; margin-left: 95px;display:none;z-index:1;
+}
+
+/* alertas follow */
+
+.receivedMsgFollow{
+position: absolute; background: url(../img/follow_recibido.png) no-repeat; 
+margin-left: 64px;
+width: 32px; 
+height: 39px; 
+top: 3px;
+cursor:pointer;
+z-index:2;
+}
+.noneMsgFollow{
+position: absolute; 
+width: 20px; 
+height: 39px; 
+background: url(../img/follow_reposo.png) no-repeat; 
+margin-left: 64px;
+top: 3px;
+cursor:pointer;
+z-index:2;
+}
+.noneMsgFollow:hover{
+background: url(../img/follow_over.png) no-repeat;
+height: 20px;
+margin-top: 11px;
+}
+
+.numReceivedMsgFollow{
+color: #FFFFFF;
+font-size: 11px;
+font-weight: bold;
+height: 15px;
+margin-left: 69px;
+letter-spacing: -2px;
+position: absolute;
+text-align: center;
+top: 4px;
+width: 18px;
+z-index:3;
+}
+
+.bgMsgsFL{
+position: absolute; background: url(../img/bgAvisos.png) no-repeat; width: 44px; z-index: 1; top: 0px; height: 40px; margin-left: 59px;display:none;z-index:1;
+}
+
+/* end alertas follow*/
+
+/* PRIV */ 
+.msgContPriv{
+height:64px;
+}
+.msgContPriv:hover{
+background:#b0b0b0;
+}
+.privMsgNone{
+position: absolute; 
+width: 20px; 
+height: 20px; 
+background: url(../img/privados_reposo.png) no-repeat; 
+margin-left: 137px; 
+top: 18px;
+cursor:pointer;
+z-index:2;
+}
+.privMsgNone:hover{
+background: url(../img/privados_over.png) no-repeat; 
+}
+
+.privMsgReceived{
+position: absolute; background: url(../img/privados_recibido.png) no-repeat; 
+margin-left: 137px; 
+width: 32px; 
+height: 39px; 
+top: 3px;
+cursor:pointer;
+z-index:2;
+}
+
+.privBgMsgsWS{
+position: absolute; background: url(../img/bgAvisos.png) no-repeat; width: 44px; z-index: 1; top: 0px; height: 40px; margin-left: 130px;display:none;z-index:1;
+}
+
+.numPrivMsgReceived{
+color: #FFFFFF;
+font-size: 11px;
+font-weight: bold;
+height: 15px;
+margin-left: 142px;
+letter-spacing: -2px;
+position: absolute;
+text-align: center;
+top: 4px;
+width: 18px;
+z-index:3;
+}
+
+.msgContPriv{
+height:64px;
+overflow:hidden;
+}
+
+.closeMsgPriv{
+ background: url("../img/closeMsgList.png") no-repeat;
+cursor: pointer;
+height: 7px;
+margin-left: 568px;
+margin-top: -26px;
+position: absolute;
+width: 8px;
+}
+
+.privMsgGral{
+overflow: hidden;
+}
+
+.replyMsgPriv{
+height: 64px;
+margin-left: 60px;
+}
+.replyMsgPriv:hover{
+background:#b0b0b0;
+}
+
+.inputReplyMsgPriv{
+margin-left: 72px; display: block; width: 497px; height: 88px; margin-top:8px;
+/*background:url(../img/bginputPriv.png);*/
+}
+.inpRplyPriv{
+font-size: 11px; padding:5px 5px 5px 5px; width:492px; height:84px;
+}
+
+.repliBtnPriv{
+background: url(../img/replyFdo.png) no-repeat center;
+cursor: pointer;
+height: 21px;
+margin-left: 429px;
+margin-top: 9px;
+padding-top: 5px;
+text-align: center;
+width: 150px;
+margin-bottom:7px;
+}
+
+.repliBtnPriv:hover{
+color:#006600;
+}
+
+.moreResReply{
+margin-left:72px;
+margin-top:10px;
+margin-bottom:10px;
+cursor:pointer;
+width:93px;
+}
+.moreResReply:hover{
+color:#006600;
+}
+/* noticias */
+.theMsgsS .scores{
+	float: left;
+    height: 239px;
+}
+.theMsgsS .scores .titlescores,.theMsgsS .rss .titlerss{
+	background-image: url("../img/titlenews.jpg");
+    background-repeat: repeat-y;
+    color: #000000;
+    display: block;
+    font-size: 24px;
+    padding-bottom: 5px;
+    padding-left: 13px;
+    padding-top: 5px;
+    text-align: left;
+    text-transform: uppercase;
+    width: 576px;
+}
+.theMsgsS .scores .titlescores select{
+	color: #B2B2B2;
+    font-size: 12px;
+    margin-left: 50px;
+    position: relative;
+    text-transform: none;
+    top: -5px;
+    width: 200px;
+}
+.theMsgsS .scores .titlescores #liga{
+	font-size: 11px;
+    position: relative;
+    text-transform: none;
+    top: -5px;
+}
+.theMsgsS .scores .score,.theMsgsS .rss .news{
+	background-image: url(../img/backnews.jpg);
+    color: #000000;
+    display: block;
+    float: left;
+    position: relative;
+    width: 589px;
+}
+.theMsgsS .scores .score .scor{
+	float: left;
+    width: 569px;
+    padding: 10px;
+}
+.theMsgsS .scores .score .scor .titles{
+	background-image: url(../img/scornews.jpg);
+    background-repeat: no-repeat;
+    color: #B2B2B2;
+    float: left;
+    font-size: 11px;
+    padding: 3px 5px;
+    width: 559px;
+}
+.theMsgsS .scores .score .scor .titles .right,.theMsgsS .scores .score .scor .titles .left{
+	float: left;
+    width: 279px;
+}
+.theMsgsS .scores .score .scor .left,.theMsgsS .scores .score .scor .right{
+	float: left;
+    width: 284px;
+}
+.theMsgsS .scores .score .scor .left table{
+	width: 284px;
+}
+.theMsgsS .scores .score .scor .left table .left{
+	font-size: 11px;
+    padding: 5px;
+    text-align: right;
+    width: 100px;
+}
+.theMsgsS .scores .score .scor .left table .left .number,.theMsgsS .scores .score .scor .left table .right .number{
+	background-color: #000000;
+    color: #FFFFFF;
+    padding: 2px 3px;
+}
+.theMsgsS .scores .score .scor .left table .right{
+	font-size: 11px;
+    padding: 5px;
+    text-align: left;
+    width: 100px;
+}
+.theMsgsS .scores .score .scor .left table .fin{
+	font-size: 11px;
+    font-weight: bold;
+    width: 60px;
+    text-align: center;
+}
+.theMsgsS .scores .score .scor .left table .fin span{
+	color:#0C8141;
+}
+#ctrlnews{
+	background-image: url(../img/backnews.jpg);
+    background-position: right center;
+    background-repeat: repeat-y;
+    display: block;
+    float: right;
+    height: 20px;
+    padding-left: 4px;
+    padding-right: 4px;
+    position: relative;
+    top: -190px;
+    z-index: 15;
+}
+.controlnews{
+    float: left;
+    height: 18px;
+    left: -5px;
+    top: 39px;
+    width: 11px;
+    cursor: pointer;
+}
+#left{
+	background: url("../img/leftnews.png") no-repeat scroll 0 0 transparent;
+	margin-right: 3px;
+}
+#right{
+	background: url("../img/rightnews.png") no-repeat scroll 0 0 transparent;
+}
+#left:hover{
+	background: url("../img/leftnewsover.png") no-repeat scroll 0 0 transparent;
+}
+#right:hover{
+	background: url("../img/rightnewsover.png") no-repeat scroll 0 0 transparent;
+}
+.theMsgsS .rss{
+	border-bottom: 2px solid #C0C0C0;
+    float: left;
+    height: 209px;
+}
+.theMsgsS .rss .titlerss select{
+	 color: #B2B2B2;
+    font-size: 12px;
+    margin-left: 4px;
+    position: relative;
+    text-transform: none;
+    top: -5px;
+    width: 175px;
+}
+.theMsgsS .rss .titlerss .saveEditingP {
+    color: #FFFFFF;
+    font-size: 10px;
+    height: 17px;
+    margin-right: 3px;
+    padding-top: 0;
+    text-transform: capitalize;
+    top: -6px;
+    width: 60px;
+}
+.theMsgsS .rss .news .new{
+	float: left;
+    width: 529px;
+    padding: 10px 50px 10px 10px;
+}
+.theMsgsS .rss .news .new p{
+	color: #000000;
+    padding-top: 30px;
+    text-align: justify;
+}
+.theMsgsS .rss .news .new img{
+	float: left;
+	margin: 5px 10px 10px 5px;
+}
+.theMsgsS .rss .news .new span.date{
+	color: #000000;
+    float: right;
+    font-weight: bold;
+    margin-top: 40px;
+}
+.theMsgsS .rss #ctrlnews{
+	top: -95px;
+}

@@ -1,0 +1,898 @@
+[04-Aug-2011 11:54:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Aug-2011 11:54:52] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/soccermashTest3/gestion/modulos/photo/uploadTemp/fb60d411a5c5b72b2e7d3527cfc84fd0116nery-620x350.jpg' is not a valid JPEG file in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Aug-2011 11:54:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 78
+[04-Aug-2011 11:56:09] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Aug-2011 11:56:09] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/soccermashTest3/gestion/modulos/photo/uploadTemp/fb60d411a5c5b72b2e7d3527cfc84fd0190nery-620x350.jpg.jpg' is not a valid JPEG file in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Aug-2011 11:56:09] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/soccermashTest3/uploadPhoto/imageResize/imageresize.class.php on line 78
+[16-Aug-2011 09:20:35] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:36] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:37] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:38] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:39] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:40] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:41] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:41] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:42] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:43] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[16-Aug-2011 09:20:44] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/165a59f7cf3b5c4396ba65953d679f1748arsenal_logo.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('165a59f7cf3b5c4...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[17-Aug-2011 15:10:41] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/ecb47fbb07a752413640f82a945530f8168228459_215149211836357_163469190337693_837689_2016803_n.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('ecb47fbb07a7524...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[17-Aug-2011 15:10:43] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/ecb47fbb07a752413640f82a945530f8168228459_215149211836357_163469190337693_837689_2016803_n.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('ecb47fbb07a7524...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[17-Aug-2011 15:36:52] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 35
+[17-Aug-2011 15:36:52] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 78
+[18-Aug-2011 16:32:34] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/01b6397888c09d84f3dc89d807aa100429PItuyJoRDAN.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('01b6397888c09d8...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[18-Aug-2011 17:18:04] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 35
+[18-Aug-2011 17:18:04] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 78
+[22-Aug-2011 10:18:48] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:18:52] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:19:07] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:19:08] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:19:08] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:19:09] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:19:45] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:20:11] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:20:13] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:33:04] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[22-Aug-2011 10:39:02] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[23-Aug-2011 07:40:36] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[23-Aug-2011 15:15:57] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/pruebagral/gestion/modulos/photo/uploadPhoto.php on line 56
+[23-Aug-2011 15:15:57] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/pruebagral/gestion/modulos/photo/uploadPhoto.php on line 58
+[24-Aug-2011 15:28:04] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/a40511cad8383e5ae8ddd8b855d135da94ab8d16f60f7c04e75f585e74.jpg' did not exist to delete.' in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/pruebagral/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('a40511cad8383e5...')
+#1 {main}
+  thrown in /home/soccer/public_html/pruebagral/rackspace/lib/cloudfiles.php on line 1541
+[24-Aug-2011 16:54:28] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Aug-2011 16:54:28] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Aug-2011 17:20:45] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Aug-2011 17:20:45] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/pruebagral/uploadPhoto/imageResize/imageresize.class.php on line 78
+[31-Aug-2011 11:49:35] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/2edfeadfe636973b42d7b6ac315b896c33OgAAAHMGCugnEjhb6mRo5Hsuje07eDYr3NH9VW0W9wMRGfMXLsHUL3YJy2PX68E5mTkB69aU51YBVCkt0vUwHZL_pu0Am1T1UCdLL0gWhRVh7bVAii3D' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('2edfeadfe636973...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[31-Aug-2011 11:49:41] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/2edfeadfe636973b42d7b6ac315b896c33OgAAAHMGCugnEjhb6mRo5Hsuje07eDYr3NH9VW0W9wMRGfMXLsHUL3YJy2PX68E5mTkB69aU51YBVCkt0vUwHZL_pu0Am1T1UCdLL0gWhRVh7bVAii3D' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('2edfeadfe636973...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[31-Aug-2011 11:50:03] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/2edfeadfe636973b42d7b6ac315b896c33OgAAAHMGCugnEjhb6mRo5Hsuje07eDYr3NH9VW0W9wMRGfMXLsHUL3YJy2PX68E5mTkB69aU51YBVCkt0vUwHZL_pu0Am1T1UCdLL0gWhRVh7bVAii3D' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('2edfeadfe636973...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[02-Sep-2011 13:35:02] PHP Parse error:  syntax error, unexpected $end in /home/soccer/public_html/lab1/gestion/modulos/photo/uploadPhoto.php on line 244
+[02-Sep-2011 13:39:04] PHP Parse error:  syntax error, unexpected $end in /home/soccer/public_html/lab1/gestion/modulos/photo/uploadPhoto.php on line 244
+[02-Sep-2011 13:57:31] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: select * from ax_language where tag='es-ES'  order by tag asc limit 0,1, ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(108): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(88): GConexion->seleccionar('ax_language', Array, 'tag='es-ES'  or...', 0, 1, true)
+#2 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(152): GConexion->seleccionarAsociado('ax_language', Array, 'tag='es-ES'  or...', 0, 1)
+#3 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(174): ModelLoader->seleccionar(Array, 'tag='es-ES'  or...', 0, 1)
+#4 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(342): ModelLoader->listar('tag='es-ES'  or...', 0, 1)
+#5 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(348): ModelLoader->listarPorCampos(Array, 0, 0, 1)
+#6 /home/soccer/public_html/lab1/goaamb/idioma.php(120): ModelLoader->bu in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:01:10] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: select * from ax_language where tag='es-ES'  order by tag asc limit 0,1, ' in /home/soccer/public_html/lab1/goaamb/bd/conexion.php:60
+Stack trace:
+#0 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(108): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/lab1/goaamb/bd/conexion.php(88): GConexion->seleccionar('ax_language', Array, 'tag='es-ES'  or...', 0, 1, true)
+#2 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(152): GConexion->seleccionarAsociado('ax_language', Array, 'tag='es-ES'  or...', 0, 1)
+#3 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(174): ModelLoader->seleccionar(Array, 'tag='es-ES'  or...', 0, 1)
+#4 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(342): ModelLoader->listar('tag='es-ES'  or...', 0, 1)
+#5 /home/soccer/public_html/lab1/goaamb/bd/modelloader.php(348): ModelLoader->listarPorCampos(Array, 0, 0, 1)
+#6 /home/soccer/public_html/lab1/goaamb/idioma.php(120): ModelLoader->bu in /home/soccer/public_html/lab1/goaamb/bd/conexion.php on line 60
+[02-Sep-2011 14:02:39] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/lab1/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/lab1/gestion/modulos/photo/uploadPhoto.php on line 56
+[05-Sep-2011 17:07:19] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 17:07:24] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 17:07:26] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 17:07:27] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 17:07:29] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 17:07:30] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7228OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[05-Sep-2011 20:52:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[05-Sep-2011 23:23:55] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[05-Sep-2011 23:27:36] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 11:04:14] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 13:30:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 14:54:37] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 16:37:43] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 16:40:04] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 16:41:32] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 16:49:05] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 17:17:38] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 17:18:54] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 19:14:45] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[06-Sep-2011 19:29:34] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 02:47:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 06:31:13] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 07:32:42] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 07:41:03] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 07:49:41] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 08:27:11] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 08:47:52] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 09:01:57] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 09:04:47] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 09:05:09] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 09:13:24] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 09:19:10] PHP Fatal error:  require_once() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/soccermashTest3/gestion/lib/site_ini.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 56
+[07-Sep-2011 18:51:19] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Sep-2011 18:51:19] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Sep-2011 18:54:26] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Sep-2011 18:54:26] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[28-Sep-2011 16:05:32] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8682cc30db9c025ecd3fee433f8ab54c218IMG00893.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8682cc30db9c025...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[28-Sep-2011 16:05:33] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8682cc30db9c025ecd3fee433f8ab54c218IMG00893.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8682cc30db9c025...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[28-Sep-2011 16:05:34] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8682cc30db9c025ecd3fee433f8ab54c218IMG00893.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8682cc30db9c025...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 09:30:15] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/838aac83e00e8c5ca0f839c96d6cb3be103PQAAANpgdH5e00YkqU0Id7Dw5JiQrE_wQXCll2FQmP7ex-ycKTQ_E7m52HGQbwRHW_RC7l6JKFfcKyK_ESbpi0lUpw0Am1T1UNPVo0xGLtuvYhvYrY8' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('838aac83e00e8c5...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 11:55:41] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[29-Sep-2011 11:55:41] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[29-Sep-2011 14:19:50] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7eb532aef980c36170c0b4426f082b87218blancoyverde98\\\'.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7eb532aef980c36...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 14:19:58] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7eb532aef980c36170c0b4426f082b87218blancoyverde98\\\'.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7eb532aef980c36...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 14:20:06] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7eb532aef980c36170c0b4426f082b87218blancoyverde98\\\'.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7eb532aef980c36...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 14:23:32] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7eb532aef980c36170c0b4426f082b87218blancoyverde98\\\'.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7eb532aef980c36...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[29-Sep-2011 14:27:45] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7eb532aef980c36170c0b4426f082b87218blancoyverde98\\\'.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7eb532aef980c36...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[30-Sep-2011 22:36:56] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/f1ee083baf7bb88affb4bbe77dd229f0148fotodale053.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('f1ee083baf7bb88...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[30-Sep-2011 22:36:57] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/f1ee083baf7bb88affb4bbe77dd229f0148fotodale053.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('f1ee083baf7bb88...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[01-Oct-2011 11:53:01] PHP Notice:  Undefined index:   in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[01-Oct-2011 11:53:01] PHP Warning:  Division by zero in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 55
+[01-Oct-2011 11:53:01] PHP Warning:  imagecreatetruecolor() [<a href='function.imagecreatetruecolor'>function.imagecreatetruecolor</a>]: Invalid image dimensions in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 73
+[01-Oct-2011 11:53:01] PHP Warning:  imagealphablending(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 75
+[01-Oct-2011 11:53:01] PHP Warning:  imagesavealpha(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 77
+[01-Oct-2011 11:53:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[01-Oct-2011 11:53:01] PHP Warning:  imagejpeg(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 92
+[01-Oct-2011 11:53:01] PHP Warning:  imagedestroy(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 93
+[01-Oct-2011 11:53:02] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a4e858c15255e55d5e1e221bd151154f92IMG_0298.JPG) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[01-Oct-2011 11:53:02] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a4e858c15255e55d5e1e221bd151154f92IMG_0298.JPG in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[01-Oct-2011 11:53:02] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a4e858c15255e55d5e1e221bd151154f92IMG_0298.JPG) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[01-Oct-2011 11:53:02] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[03-Oct-2011 11:05:27] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[03-Oct-2011 11:05:27] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/gestion/modulos/photo/uploadTemp/a3f390d88e4c41f2747bfa2f1b5f87db112juanma.jpg.jpg' is not a valid JPEG file in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[03-Oct-2011 11:05:27] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[03-Oct-2011 11:05:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Premature end of JPEG file
+ in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[03-Oct-2011 11:05:28] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/gestion/modulos/photo/uploadTemp/a3f390d88e4c41f2747bfa2f1b5f87db112juanma.jpg.jpg' is not a valid JPEG file in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[03-Oct-2011 11:05:28] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[03-Oct-2011 21:46:27] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/7bec7e63a493e2d61891b1e4051ef75a22219333_1335190107657_1468223602_30924430_4797538_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('7bec7e63a493e2d...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[04-Oct-2011 03:17:25] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/d840cc5d906c3e9c84374c8919d2074e164copiatobol.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('d840cc5d906c3e9...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[07-Oct-2011 19:02:10] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/lab1/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Oct-2011 19:02:10] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/lab1/gestion/modulos/photo/uploadPhoto.php on line 68
+[08-Oct-2011 16:30:00] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/0a17ad0fa0870b05f172deeb05efef8e215101001-233421.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('0a17ad0fa0870b0...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[08-Oct-2011 16:30:01] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/0a17ad0fa0870b05f172deeb05efef8e215101001-233421.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('0a17ad0fa0870b0...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[08-Oct-2011 16:30:03] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/0a17ad0fa0870b05f172deeb05efef8e215101001-233421.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('0a17ad0fa0870b0...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[15-Oct-2011 14:43:45] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[15-Oct-2011 14:43:45] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[19-Oct-2011 07:29:39] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[19-Oct-2011 07:29:39] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[19-Oct-2011 07:29:39] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/31c97cbb941d3e92d0e6f9925e9bc4d7244C-Pe.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[19-Oct-2011 07:29:39] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/31c97cbb941d3e92d0e6f9925e9bc4d7244C-Pe.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[19-Oct-2011 07:29:40] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/31c97cbb941d3e92d0e6f9925e9bc4d7244C-Pe.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[19-Oct-2011 07:29:40] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[19-Oct-2011 12:46:17] PHP Fatal error:  Uncaught exception 'MLFieldNotDefinedException' with message 'El Campo Hash no esta defininido' in /home/soccer/public_html/goaamb/bd/modelloader.php:134
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/modelloader.php(138): ModelLoader->__campo('hash')
+#1 /home/soccer/public_html/goaamb/idioma.php(43): ModelLoader->__get('hash')
+#2 /home/soccer/public_html/goaamb/idioma.php(143): Idioma->__construct('pt-PT')
+#3 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(7): Idioma::darLenguaje()
+#4 {main}
+  thrown in /home/soccer/public_html/goaamb/bd/modelloader.php on line 134
+[21-Oct-2011 09:21:39] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8a0cd50ecce34cfd150d3d512ccf42cf119188526_10150127433144279_24883074278_6734828_4785609_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8a0cd50ecce34cf...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:33:04] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8a0cd50ecce34cfd150d3d512ccf42cf158267720_10150252363514279_24883074278_7645859_3366958_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8a0cd50ecce34cf...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:33:05] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8a0cd50ecce34cfd150d3d512ccf42cf158267720_10150252363514279_24883074278_7645859_3366958_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8a0cd50ecce34cf...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:33:07] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8a0cd50ecce34cfd150d3d512ccf42cf158267720_10150252363514279_24883074278_7645859_3366958_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8a0cd50ecce34cf...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:33:08] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8a0cd50ecce34cfd150d3d512ccf42cf158267720_10150252363514279_24883074278_7645859_3366958_n.jpg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8a0cd50ecce34cf...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:34:08] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/39059724f73a9969845dfe4146c5660e56junete.jpeg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('39059724f73a996...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:34:09] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/39059724f73a9969845dfe4146c5660e56junete.jpeg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('39059724f73a996...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Oct-2011 09:34:10] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/39059724f73a9969845dfe4146c5660e56junete.jpeg' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('39059724f73a996...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[24-Oct-2011 10:58:06] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/838aac83e00e8c5ca0f839c96d6cb3be18PQAAAOA7-4m5f2tOl0Tb61s4SF_m8zkZbvwQFbVmhL2-wMXlCiWUdR-RERgIyg5Oeij3o7_LTuNwPhWHqg_OP5wTb5wAm1T1UENMjjCBSp5eQoay4mM1' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('838aac83e00e8c5...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[24-Oct-2011 15:32:23] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 15:32:23] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 15:32:25] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b84untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 15:32:25] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b84untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 15:32:25] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b84untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 15:32:25] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:11:16] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:11:16] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:11:16] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b170untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:11:16] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b170untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:11:17] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b170untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:11:17] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:13:35] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:13:35] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:13:35] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b291untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:13:35] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b291untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:13:36] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b291untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:13:36] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:19:08] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:19:08] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:19:09] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b137untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:19:09] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b137untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:19:09] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b137untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:19:09] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:20:34] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:20:34] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:20:40] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b287untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:20:40] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b287untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:20:40] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b287untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:20:40] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:21:40] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:21:40] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:21:41] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b74untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:21:41] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b74untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:21:41] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b74untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:21:41] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:25:08] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:25:08] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:25:09] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b196untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:25:09] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b196untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:25:09] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b196untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:25:09] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:26:09] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[24-Oct-2011 16:26:14] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:26:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:26:14] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b299untitled.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:26:14] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b299untitled.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:26:14] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/692baebec3bb4b53d7ebc3b9fabac31b299untitled.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:26:14] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:54:19] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:54:19] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:54:20] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c282aris-paok.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:54:20] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c282aris-paok.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:54:20] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c282aris-paok.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:54:20] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 16:58:09] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 16:58:09] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 16:58:10] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c284aris-paok.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 16:58:10] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c284aris-paok.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 16:58:10] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c284aris-paok.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 16:58:10] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Oct-2011 17:05:06] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Oct-2011 17:05:06] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Oct-2011 17:05:07] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c213aris-paok.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Oct-2011 17:05:07] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c213aris-paok.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Oct-2011 17:05:07] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/def130d0b67eb38b7a8f4e7121ed432c213aris-paok.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Oct-2011 17:05:07] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[25-Oct-2011 11:40:37] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[25-Oct-2011 11:40:37] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[25-Oct-2011 11:40:37] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/96f2d6069db8ad895c34e2285d25c0ed234jogopalmeiras2.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[25-Oct-2011 11:40:37] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/96f2d6069db8ad895c34e2285d25c0ed234jogopalmeiras2.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[25-Oct-2011 11:40:38] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/96f2d6069db8ad895c34e2285d25c0ed234jogopalmeiras2.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[25-Oct-2011 11:40:38] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[27-Oct-2011 13:45:44] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[27-Oct-2011 13:45:44] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[27-Oct-2011 13:46:02] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[27-Oct-2011 13:46:02] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[28-Oct-2011 09:47:11] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b9141aff1412dc76340b3822d9ea6c7271OgAAANlSyhAM4BHdXJQFAnC1ltw1H9iJI4Y0g9t3XSNFdrbDiqS9o0pG-QmhxrtSbt0AdyRluJ1VyZ6hhcqSrlHhcXYAm1T1UGW9jd8Tlkj7gd2-Aujd' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b9141aff1412dc7...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[06-Jan-2012 07:18:47] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b91f5a1e50d6a0fff36dda5a1bb08d76238PQAAACnmM5K_b24xdk2F5dKAS9nchM41gDxVw8AZ7224_jrdrrdxr9vXZp0B3zIbJfv1Lao3FwDvk-Cq9qrv6m49whYAm1T1UJnoBfsZR8QjJJn1nKM' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b91f5a1e50d6a0f...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[06-Jan-2012 07:19:37] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b91f5a1e50d6a0fff36dda5a1bb08d76238PQAAACnmM5K_b24xdk2F5dKAS9nchM41gDxVw8AZ7224_jrdrrdxr9vXZp0B3zIbJfv1Lao3FwDvk-Cq9qrv6m49whYAm1T1UJnoBfsZR8QjJJn1nKM' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b91f5a1e50d6a0f...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[06-Jan-2012 07:20:25] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b91f5a1e50d6a0fff36dda5a1bb08d7631PQAAACnmM5K_b24xdk2F5dKAS9nchM41gDxVw8AZ7224_jrdrrdxr9vXZp0B3zIbJfv1Lao3FwDvk-Cq9qrv6m49whYAm1T1UJnoBfsZR8QjJJn1nKMD' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b91f5a1e50d6a0f...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[06-Jan-2012 07:21:47] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b91f5a1e50d6a0fff36dda5a1bb08d7631PQAAACnmM5K_b24xdk2F5dKAS9nchM41gDxVw8AZ7224_jrdrrdxr9vXZp0B3zIbJfv1Lao3FwDvk-Cq9qrv6m49whYAm1T1UJnoBfsZR8QjJJn1nKMD' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b91f5a1e50d6a0f...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[06-Jan-2012 07:28:26] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/b91f5a1e50d6a0fff36dda5a1bb08d7631PQAAACnmM5K_b24xdk2F5dKAS9nchM41gDxVw8AZ7224_jrdrrdxr9vXZp0B3zIbJfv1Lao3FwDvk-Cq9qrv6m49whYAm1T1UJnoBfsZR8QjJJn1nKMD' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('b91f5a1e50d6a0f...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 08:57:58] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d6830621OgAAANFJshVcKuDQkYCil0mQW7yrZxpiDeiWqQs7Q3tRgirXkRY2HwsMpHE4eR11jbK9nJSu76g_TyzUd-I9xd0AIxYAm1T1UBu_z_Z6cz65zReL1vhw' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 08:58:06] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d6830664OgAAABRUy7AzpOdLakEDBJ7rvNclDn7_3bJVLfOXsMEGlQn3Anw8SDXhK2UuMoi6YeRymxrzxU9EPdugl6z1y9UCCZEAm1T1UDMk2TnveGPNe0S0NgLB' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 09:03:30] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d68306100OgAAANFJshVcKuDQkYCil0mQW7yrZxpiDeiWqQs7Q3tRgirXkRY2HwsMpHE4eR11jbK9nJSu76g_TyzUd-I9xd0AIxYAm1T1UBu_z_Z6cz65zReL1vh' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 09:03:41] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d68306138OgAAAK0_MXcrnsK_12I6CVZR3VPPYdoRyIXBe_xAjIcpS6T88ciq26HDPRzu_H-QnfVrlaaPAo_vEl5qcNz53wevAtQAm1T1UMzCyqlncv8vTkn57UG' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 09:04:06] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d68306138OgAAAK0_MXcrnsK_12I6CVZR3VPPYdoRyIXBe_xAjIcpS6T88ciq26HDPRzu_H-QnfVrlaaPAo_vEl5qcNz53wevAtQAm1T1UMzCyqlncv8vTkn57UG' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 09:04:27] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d6830664OgAAABRUy7AzpOdLakEDBJ7rvNclDn7_3bJVLfOXsMEGlQn3Anw8SDXhK2UuMoi6YeRymxrzxU9EPdugl6z1y9UCCZEAm1T1UDMk2TnveGPNe0S0NgLB' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[10-Jan-2012 09:04:29] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/8c66bb19847dd8c21413c5c8c9d6830621OgAAANFJshVcKuDQkYCil0mQW7yrZxpiDeiWqQs7Q3tRgirXkRY2HwsMpHE4eR11jbK9nJSu76g_TyzUd-I9xd0AIxYAm1T1UBu_z_Z6cz65zReL1vhw' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('8c66bb19847dd8c...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[12-Jan-2012 10:10:49] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 20480 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[12-Jan-2012 10:41:47] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/88340338e0a0cdc54350c05cf056dca8228PQAAAIWEZKZzNCxhvChV2alK-Bjhq1aNrc_SUWzbwCsvhGl-kfFU82Neem5wQoaVTAQ2JM9M8X3T8Df1eHuTIJVpKH8Am1T1UJwqJm8bXu4NlQsy6PK' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('88340338e0a0cdc...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[12-Jan-2012 10:41:52] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/88340338e0a0cdc54350c05cf056dca8239PQAAAJdwLL62NiIaAp1yTuiT78owKvUEN80A-QOtuEaMoh2LiamCVplfgFfY1ZnQGHaA-Hh6XVgNOAaQKkNzuzb--ycAm1T1ULzjd349sGYjBCpcLEQ' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('88340338e0a0cdc...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[12-Jan-2012 10:44:04] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/88340338e0a0cdc54350c05cf056dca8239PQAAAJdwLL62NiIaAp1yTuiT78owKvUEN80A-QOtuEaMoh2LiamCVplfgFfY1ZnQGHaA-Hh6XVgNOAaQKkNzuzb--ycAm1T1ULzjd349sGYjBCpcLEQ' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('88340338e0a0cdc...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[12-Jan-2012 10:44:18] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/88340338e0a0cdc54350c05cf056dca8228PQAAAIWEZKZzNCxhvChV2alK-Bjhq1aNrc_SUWzbwCsvhGl-kfFU82Neem5wQoaVTAQ2JM9M8X3T8Df1eHuTIJVpKH8Am1T1UJwqJm8bXu4NlQsy6PK' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('88340338e0a0cdc...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[12-Jan-2012 13:01:47] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/88340338e0a0cdc54350c05cf056dca8239PQAAAJdwLL62NiIaAp1yTuiT78owKvUEN80A-QOtuEaMoh2LiamCVplfgFfY1ZnQGHaA-Hh6XVgNOAaQKkNzuzb--ycAm1T1ULzjd349sGYjBCpcLEQ' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('88340338e0a0cdc...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[21-Jan-2012 15:17:16] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response (401): ' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1593
+Stack trace:
+#0 /home/soccer/public_html/rackspace/lib/cloudfiles.php(969): CF_Container->_cdn_initialize()
+#1 /home/soccer/public_html/rackspace/lib/cloudfiles.php(612): CF_Container->__construct(Object(CF_Authentication), Object(CF_Http), 'big-file-php', 5064, 1761111918)
+#2 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(165): CF_Connection->get_container('big-file-php')
+#3 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1593
+[21-Jan-2012 15:20:53] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response: ' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:608
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(165): CF_Connection->get_container('big-file-php')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 608
+[23-Jan-2012 19:19:55] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[23-Jan-2012 19:19:55] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[23-Jan-2012 19:19:57] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f69snapshot_001.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[23-Jan-2012 19:19:57] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f69snapshot_001.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[23-Jan-2012 19:19:57] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f69snapshot_001.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[23-Jan-2012 19:19:57] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[23-Jan-2012 20:13:51] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[23-Jan-2012 20:13:51] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[23-Jan-2012 20:13:51] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f300snapshot_001.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[23-Jan-2012 20:13:51] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f300snapshot_001.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[23-Jan-2012 20:13:52] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/7a02741932bb4c9d3920fbc2f4b6080f300snapshot_001.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[23-Jan-2012 20:13:52] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Jan-2012 10:34:46] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[24-Jan-2012 10:34:46] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[24-Jan-2012 10:34:47] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d133Scan0000.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[24-Jan-2012 10:34:47] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d133Scan0000.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[24-Jan-2012 10:34:47] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d133Scan0000.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[24-Jan-2012 10:34:47] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[25-Jan-2012 05:28:24] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[25-Jan-2012 05:28:24] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[25-Jan-2012 05:28:25] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d279Scan0000.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[25-Jan-2012 05:28:25] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d279Scan0000.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[25-Jan-2012 05:28:25] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/860b37e28ec7ba614f00f9246949561d279Scan0000.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[25-Jan-2012 05:28:25] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[26-Jan-2012 05:57:12] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[26-Jan-2012 05:57:12] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[02-Feb-2012 12:38:52] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[02-Feb-2012 12:38:52] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[04-Feb-2012 09:42:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Feb-2012 09:42:00] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/gestion/modulos/photo/uploadTemp/1e932f24dc0aa4e7a6ac2beec387416d96264.JPG' is not a valid JPEG file in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Feb-2012 09:42:00] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[04-Feb-2012 09:42:02] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: gd-jpeg, libjpeg: recoverable error: Corrupt JPEG data: premature end of data segment
+ in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Feb-2012 09:42:02] PHP Warning:  imagecreatefromjpeg() [<a href='function.imagecreatefromjpeg'>function.imagecreatefromjpeg</a>]: '/home/soccer/public_html/gestion/modulos/photo/uploadTemp/1e932f24dc0aa4e7a6ac2beec387416d96264.JPG' is not a valid JPEG file in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[04-Feb-2012 09:42:02] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[05-Feb-2012 06:59:14] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[05-Feb-2012 06:59:14] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[05-Feb-2012 06:59:16] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013257martinvillarreal.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[05-Feb-2012 06:59:16] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013257martinvillarreal.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[05-Feb-2012 06:59:16] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013257martinvillarreal.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[05-Feb-2012 06:59:16] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[05-Feb-2012 07:05:25] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[05-Feb-2012 07:05:25] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[05-Feb-2012 07:05:25] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701365martinvillarreal.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[05-Feb-2012 07:05:25] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701365martinvillarreal.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[05-Feb-2012 07:05:25] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701365martinvillarreal.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[05-Feb-2012 07:05:25] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[05-Feb-2012 08:07:36] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[05-Feb-2012 08:07:36] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[05-Feb-2012 08:07:37] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701394martinvillarreal.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[05-Feb-2012 08:07:37] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701394martinvillarreal.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[05-Feb-2012 08:07:37] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b833701394martinvillarreal.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[05-Feb-2012 08:07:37] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[06-Feb-2012 04:12:35] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[06-Feb-2012 04:12:35] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[06-Feb-2012 04:12:36] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013229martinvillarreal.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[06-Feb-2012 04:12:36] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013229martinvillarreal.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[06-Feb-2012 04:12:36] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/815104ed949f9deaf45165c4b8337013229martinvillarreal.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[06-Feb-2012 04:12:36] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[14-Feb-2012 11:58:44] PHP Fatal error:  Uncaught exception 'NoSuchObjectException' with message 'Specified object 'big-file-php/df308fd90635b28d82558cf580c73ed939OgAAAHriB4mywucMYze9yu26WAsekxbbVw6MHR151Vk4RwSniZKyNc-o3MGMaVWYEAKxbwJoProMUF5O3Iuwi2vPjuMAm1T1UNZx39skNjjnoOMsjriY' did not exist to delete.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1541
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(22): CF_Container->delete_object('df308fd90635b28...')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1541
+[14-Feb-2012 14:51:29] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response (0): (curl error: 52) Empty reply from server: Failed to obtain valid HTTP response.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2269
+Stack trace:
+#0 /home/soccer/public_html/rackspace/lib/cloudfiles.php(1668): CF_Object->_initialize()
+#1 /home/soccer/public_html/rackspace/lib/cloudfiles.php(1336): CF_Object->__construct(Object(CF_Container), 'e7d6e2e80f0955c...')
+#2 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(169): CF_Container->create_object('e7d6e2e80f0955c...')
+#3 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2269
+[14-Feb-2012 15:15:28] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response: ' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:608
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(165): CF_Connection->get_container('big-file-php')
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 608
+[01-Mar-2012 07:12:13] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 933 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 73
+[07-Mar-2012 16:31:35] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[07-Mar-2012 16:33:55] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[07-Mar-2012 16:38:46] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[03-Jun-2012 19:13:24] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[03-Jun-2012 19:13:25] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[03-Jun-2012 19:14:50] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[03-Jun-2012 19:14:50] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[06-Jun-2012 23:02:21] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[06-Jun-2012 23:02:21] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 08:33:30] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 08:33:30] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 08:34:13] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 08:34:13] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 09:15:14] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 09:15:14] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 11:11:01] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 11:11:01] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 11:14:52] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 11:14:52] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 14:58:01] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 14:58:01] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 20:54:15] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 20:54:15] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jun-2012 20:54:33] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jun-2012 20:54:33] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[09-Jun-2012 13:27:17] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[09-Jun-2012 13:27:17] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[12-Jun-2012 22:10:50] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[12-Jun-2012 22:16:40] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[13-Jun-2012 07:24:02] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 07:24:02] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[13-Jun-2012 07:29:09] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 07:29:09] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[13-Jun-2012 19:36:54] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 19:36:54] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[13-Jun-2012 19:48:03] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 19:48:03] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[13-Jun-2012 21:43:14] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 21:43:14] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[13-Jun-2012 21:55:39] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[13-Jun-2012 21:55:39] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[14-Jun-2012 21:44:31] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[14-Jun-2012 21:44:31] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[16-Jun-2012 16:11:35] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[16-Jun-2012 16:11:35] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[16-Jun-2012 18:00:43] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[16-Jun-2012 18:00:43] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[18-Jun-2012 12:00:29] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[18-Jun-2012 12:00:29] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[19-Jun-2012 06:37:41] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[19-Jun-2012 06:37:41] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[19-Jun-2012 19:30:29] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[19-Jun-2012 19:30:29] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[21-Jun-2012 20:56:09] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[21-Jun-2012 20:56:09] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[25-Jun-2012 14:51:11] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response (500): ' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1593
+Stack trace:
+#0 /home/soccer/public_html/rackspace/lib/cloudfiles.php(969): CF_Container->_cdn_initialize()
+#1 /home/soccer/public_html/rackspace/lib/cloudfiles.php(612): CF_Container->__construct(Object(CF_Authentication), Object(CF_Http), 'big-file-php', 5473, 1804280532)
+#2 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(165): CF_Connection->get_container('big-file-php')
+#3 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1593
+[28-Jun-2012 10:58:26] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[28-Jun-2012 10:58:26] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[29-Jun-2012 12:51:38] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[29-Jun-2012 12:51:38] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[03-Jul-2012 15:17:01] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[03-Jul-2012 15:17:01] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[03-Jul-2012 15:17:12] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[03-Jul-2012 15:17:12] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[05-Jul-2012 06:23:39] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[05-Jul-2012 06:23:39] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[07-Jul-2012 20:58:18] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[07-Jul-2012 20:58:18] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[08-Jul-2012 14:14:50] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[08-Jul-2012 14:14:50] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[01-Aug-2012 19:43:04] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[01-Aug-2012 19:43:04] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[01-Aug-2012 19:43:06] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/0dfd8a39e2a5dd536c185e19a804a73b63HENRYPICTURETHEMANAGER.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[01-Aug-2012 19:43:06] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/0dfd8a39e2a5dd536c185e19a804a73b63HENRYPICTURETHEMANAGER.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[01-Aug-2012 19:43:06] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/0dfd8a39e2a5dd536c185e19a804a73b63HENRYPICTURETHEMANAGER.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[01-Aug-2012 19:43:06] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[03-Sep-2012 06:46:33] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[03-Sep-2012 06:46:33] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[09-Oct-2012 23:36:51] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response (500): ' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1593
+Stack trace:
+#0 /home/soccer/public_html/rackspace/lib/cloudfiles.php(969): CF_Container->_cdn_initialize()
+#1 /home/soccer/public_html/rackspace/lib/cloudfiles.php(612): CF_Container->__construct(Object(CF_Authentication), Object(CF_Http), 'big-file-php', 5656, 1822163466)
+#2 /home/soccer/public_html/gestion/modulos/photo/delPhoto.php(21): CF_Connection->get_container('big-file-php')
+#3 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1593
+[21-Oct-2012 07:57:26] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[21-Oct-2012 07:57:26] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[21-Oct-2012 07:57:26] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/838f14a84363d9a7ac1b06ad63fc6fb543PORTADADVDAM1.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[21-Oct-2012 07:57:26] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/838f14a84363d9a7ac1b06ad63fc6fb543PORTADADVDAM1.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[21-Oct-2012 07:57:26] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/838f14a84363d9a7ac1b06ad63fc6fb543PORTADADVDAM1.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[21-Oct-2012 07:57:26] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[28-Nov-2012 14:37:14] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[28-Feb-2013 09:56:14] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 17152 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[11-Apr-2013 07:47:50] PHP Notice:  Undefined index:  idUserId in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 66
+[11-Apr-2013 07:47:50] PHP Notice:  Undefined index:  photoFileName in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 68
+[01-May-2013 13:09:12] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16128 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[01-May-2013 13:15:02] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16128 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[02-Jun-2013 09:15:01] PHP Notice:  Undefined offset:  6 in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 35
+[02-Jun-2013 09:15:01] PHP Warning:  imagecopyresampled(): supplied argument is not a valid Image resource in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 78
+[02-Jun-2013 09:15:02] PHP Warning:  md5_file(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a3de03cb426b5e36f5c7167b2139532389CentralEspañolTerceraDivisión2008.bmp) [<a href='function.md5-file'>function.md5-file</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 167
+[02-Jun-2013 09:15:02] PHP Warning:  filesize() [<a href='function.filesize'>function.filesize</a>]: stat failed for /home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a3de03cb426b5e36f5c7167b2139532389CentralEspañolTerceraDivisión2008.bmp in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 168
+[02-Jun-2013 09:15:02] PHP Warning:  fopen(/home/soccer/public_html/gestion/modulos/photo/uploadTempBig/a3de03cb426b5e36f5c7167b2139532389CentralEspañolTerceraDivisión2008.bmp) [<a href='function.fopen'>function.fopen</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php on line 172
+[02-Jun-2013 09:15:02] PHP Fatal error:  Uncaught exception 'SyntaxException' with message 'Missing data source.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:2013
+Stack trace:
+#0 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(173): CF_Object->write(false)
+#1 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 2013
+[24-Jun-2013 08:17:18] PHP Fatal error:  Uncaught exception 'Exception' with message 'Error en la Consulta: "select * from ax_language where tag='es-ES'  order by tag asc limit 0,1", MySQL server has gone away' in /home/soccer/public_html/goaamb/bd/conexion.php:62
+Stack trace:
+#0 /home/soccer/public_html/goaamb/bd/conexion.php(114): GConexion->consulta('select * from a...')
+#1 /home/soccer/public_html/goaamb/bd/conexion.php(94): GConexion->seleccionar('ax_language', Array, 'tag='es-ES'  or...', 0, 1, true)
+#2 /home/soccer/public_html/goaamb/bd/modelloader.php(152): GConexion->seleccionarAsociado('ax_language', Array, 'tag='es-ES'  or...', 0, 1)
+#3 /home/soccer/public_html/goaamb/bd/modelloader.php(174): ModelLoader->seleccionar(Array, 'tag='es-ES'  or...', 0, 1)
+#4 /home/soccer/public_html/goaamb/bd/modelloader.php(342): ModelLoader->listar('tag='es-ES'  or...', 0, 1)
+#5 /home/soccer/public_html/goaamb/bd/modelloader.php(348): ModelLoader->listarPorCampos(Array, 0, 0, 1)
+#6 /home/soccer/public_html/goaamb/idioma.php(144): ModelLoader->buscarPorCampo in /home/soccer/public_html/goaamb/bd/conexion.php on line 62
+[14-Jul-2013 03:05:36] PHP Fatal error:  Allowed memory size of 67108864 bytes exhausted (tried to allocate 16000 bytes) in /home/soccer/public_html/uploadPhoto/imageResize/imageresize.class.php on line 37
+[02-Aug-2013 10:20:21] PHP Fatal error:  Uncaught exception 'InvalidResponseException' with message 'Invalid response (0): (curl error: 7) Failed to connect to 2001:4801:7900::b100: Network is unreachable: Failed to obtain valid HTTP response.' in /home/soccer/public_html/rackspace/lib/cloudfiles.php:1593
+Stack trace:
+#0 /home/soccer/public_html/rackspace/lib/cloudfiles.php(969): CF_Container->_cdn_initialize()
+#1 /home/soccer/public_html/rackspace/lib/cloudfiles.php(612): CF_Container->__construct(Object(CF_Authentication), Object(CF_Http), 'big-file-php', 6067, 1859145281)
+#2 /home/soccer/public_html/gestion/modulos/photo/uploadPhoto.php(165): CF_Connection->get_container('big-file-php')
+#3 {main}
+  thrown in /home/soccer/public_html/rackspace/lib/cloudfiles.php on line 1593

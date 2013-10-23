@@ -1,0 +1,10 @@
+[18-Jul-2011 10:25:41] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/youApi/youClass.php on line 21
+[18-Jul-2011 10:25:41] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/uploadVideo.php on line 142
+[18-Jul-2011 10:25:41] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/uploadVideo.php on line 143
+[18-Jul-2011 10:58:18] PHP Notice:  Undefined variable: v in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/youApi/youClass.php on line 21
+[18-Jul-2011 10:58:18] PHP Warning:  copy(http://i.ytimg.com/vi//default.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/uploadVideo.php on line 142
+[18-Jul-2011 10:58:19] PHP Warning:  copy(http://i.ytimg.com/vi//0.jpg) [<a href='function.copy'>function.copy</a>]: failed to open stream: HTTP request failed! HTTP/1.0 404 Not Found
+ in /home/soccer/public_html/soccermashTest2/gestion/modulos/video/uploadVideo.php on line 143

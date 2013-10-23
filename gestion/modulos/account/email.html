@@ -1,0 +1,50 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Sitio | EMAIL NOTIFICATIONS</title>
+<link href="css/style.css" rel="stylesheet" type="text/css" />
+
+<script type="text/javascript" src="js/jquery-1.6.1.js"></script>
+<script type="text/javascript" src="js/prettyCheckboxes.js"></script>
+        <script type="text/javascript" charset="utf-8">
+			$(document).ready(function(){
+				$('#checkboxDemo input[type=checkbox],#radioDemo input[type=radio]').prettyCheckboxes();
+				$('.inlineRadios input[type=radio]').prettyCheckboxes({'display':'inline'});
+			});
+		</script>
+
+</head>
+
+<body>
+<div id="content">
+
+	<div id="sidebar">
+    	<ul>
+        	<li><a href="account.html">ACCOUNT</a></li>
+            <li><a class="current" href="email.html">EMAIL NOTIFICATIONS</a></li>
+            <li><a href="#">WALL</a></li>
+            <li><a href="#">MULTIMEDIA GALLERY</a></li>
+            <li><a href="#">PRIVATE MESSAGES</a></li>
+            <li></li>
+        </ul>
+    </div>
+    
+    <div id="main">
+    	<h5>EMAIL NOTIFICATIONS</h5>
+        <h4>I would like to receive Email notifications from:</h4>
+        <form id="checkboxDemo" action="checkvalues.php" method="post">
+        	<ul>
+            	<li><label for="checkbox-3" tabindex="3">The whole network.</label>
+				<input type="checkbox" name="checkbox-3[braket]" id="checkbox-3" value="checkbox-3" /></li>
+
+				<li class="last"><label for="checkbox-4" tabindex="4">I do not want to receive any Email notifications.</label>
+                <input type="checkbox" name="checkbox-4[braket]" id="checkbox-4" value="checkbox-4" /></li>			            
+            </ul>
+        </form>    
+        <div class="submit"><input type="submit" value="save" class="save" name="send"></div>
+    </div>
+
+</div>
+</body>
+</html>

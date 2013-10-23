@@ -1,0 +1,2 @@
+[11-Apr-2013 07:46:59] PHP Fatal error:  Call to undefined function  explodeedad() in /home/soccer/public_html/gestion/modulos/home/tpl/instanceHome.tpl.php on line 8
+[11-Apr-2013 07:47:00] PHP Fatal error:  Call to undefined function  explodeedad() in /home/soccer/public_html/gestion/modulos/home/tpl/instanceHome_2.tpl.php on line 7

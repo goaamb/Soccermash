@@ -1,0 +1,309 @@
+[10-Aug-2011 15:55:01] PHP Parse error:  syntax error, unexpected ')' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 30
+[10-Aug-2011 15:56:00] PHP Parse error:  syntax error, unexpected ':' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 30
+[11-Aug-2011 07:32:44] PHP Fatal error:  Call to undefined function  generateselect() in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 25
+[11-Aug-2011 09:14:31] PHP Notice:  Undefined variable: row2 in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 66
+[11-Aug-2011 09:14:31] PHP Notice:  Undefined variable: row2 in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 66
+[11-Aug-2011 09:14:31] PHP Notice:  Undefined variable: row2 in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 66
+[11-Aug-2011 09:14:31] PHP Notice:  Undefined variable: row2 in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 66
+[11-Aug-2011 13:41:55] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 18
+[11-Aug-2011 13:41:55] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 19
+[11-Aug-2011 14:11:18] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/privateMsgs.php on line 4
+[12-Aug-2011 07:56:18] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/privateMsgs.php on line 4
+[12-Aug-2011 07:56:18] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 18
+[12-Aug-2011 07:56:18] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 19
+[12-Aug-2011 08:02:25] PHP Parse error:  syntax error, unexpected T_IF, expecting '{' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 59
+[12-Aug-2011 08:06:53] PHP Fatal error:  Cannot redeclare compubtext() (previously declared in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php:59) in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 58
+[12-Aug-2011 08:07:00] PHP Fatal error:  Cannot redeclare compubtext() (previously declared in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php:59) in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 58
+[12-Aug-2011 08:25:00] PHP Parse error:  syntax error, unexpected ')', expecting ',' or ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:25:42] PHP Parse error:  syntax error, unexpected T_CONSTANT_ENCAPSED_STRING, expecting ',' or ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:31:24] PHP Parse error:  syntax error, unexpected T_IF in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:32:09] PHP Parse error:  syntax error, unexpected T_IF in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:32:36] PHP Parse error:  syntax error, unexpected T_IF in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:32:42] PHP Parse error:  syntax error, unexpected T_IF in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:33:13] PHP Parse error:  syntax error, unexpected ')' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:33:36] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:34:07] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:34:58] PHP Parse error:  syntax error, unexpected '}', expecting ',' or ';' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 121
+[12-Aug-2011 08:35:18] PHP Parse error:  syntax error, unexpected T_IF in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 125
+[12-Aug-2011 08:36:35] PHP Parse error:  syntax error, unexpected '.' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:36:57] PHP Parse error:  syntax error, unexpected '.' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:37:14] PHP Parse error:  syntax error, unexpected '.' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 08:37:50] PHP Parse error:  syntax error, unexpected '.' in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[12-Aug-2011 11:13:14] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/privateMsgs.php on line 4
+[12-Aug-2011 17:53:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[12-Aug-2011 17:53:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[12-Aug-2011 17:53:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[12-Aug-2011 17:53:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 09:51:19] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 09:51:19] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:14] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:14] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:55] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:55] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:59] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:30:59] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:48:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 11:48:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:26] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:26] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 12:23:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:10:25] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:10:25] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:15:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:15:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:29:02] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:29:02] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:29:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[13-Aug-2011 17:29:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:37:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:44:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:45:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 122
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 07:46:53] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/msgs.php on line 118
+[15-Aug-2011 16:41:04] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/soccermashTest3/gestion/modulos/home/msgs/privateMsgs.php on line 4
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:12:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:14:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:18:05] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:19:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:21:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:21:24] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:22:54] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:22:54] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:26:38] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:26:38] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:26:48] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:26:48] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:30:13] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:30:13] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:33:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:33:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:59:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 08:59:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:00:04] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:00:04] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:00:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:00:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:50:43] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 09:50:43] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:57] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:45:58] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 10:46:08] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:02:17] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[16-Aug-2011 15:02:31] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[16-Aug-2011 15:03:19] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:24:07] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:24:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 129
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:24:56] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[16-Aug-2011 15:46:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[16-Aug-2011 15:46:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[17-Aug-2011 15:31:04] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 18
+[17-Aug-2011 15:31:04] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 19
+[18-Aug-2011 12:56:35] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[19-Aug-2011 07:46:35] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[19-Aug-2011 07:46:35] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[19-Aug-2011 08:15:38] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[19-Aug-2011 08:15:38] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[19-Aug-2011 08:15:38] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[19-Aug-2011 08:15:38] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[20-Aug-2011 08:32:10] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[20-Aug-2011 08:32:10] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[20-Aug-2011 19:29:43] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[22-Aug-2011 10:57:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[22-Aug-2011 10:57:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[22-Aug-2011 10:57:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[22-Aug-2011 10:57:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 118
+[23-Aug-2011 05:59:59] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[23-Aug-2011 10:18:19] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 10:18:19] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 10:18:31] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 10:18:31] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 11:13:26] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[23-Aug-2011 11:13:26] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[23-Aug-2011 11:28:40] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 11:28:40] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 11:43:01] PHP Notice:  Undefined index:  id_comment in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 59
+[23-Aug-2011 13:13:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[23-Aug-2011 13:13:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 08:35:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 08:35:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:27:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:27:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:27:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[24-Aug-2011 12:27:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[24-Aug-2011 12:36:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:36:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:36:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[24-Aug-2011 12:36:52] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 126
+[24-Aug-2011 12:47:25] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:25] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:27] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:33] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 12:47:33] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 14:00:33] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 14:00:33] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 23:07:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 23:07:50] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 23:27:41] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[24-Aug-2011 23:27:41] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[25-Aug-2011 01:21:40] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[25-Aug-2011 01:21:40] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 05:37:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 05:37:47] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 05:37:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 05:37:49] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 07:13:13] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 07:13:13] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 09:04:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[26-Aug-2011 09:04:46] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/pruebagral/gestion/modulos/home/msgs/msgs.php on line 122
+[29-Aug-2011 16:04:24] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:04:35] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:07:36] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:08:57] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:22) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 25
+[29-Aug-2011 16:10:28] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:22) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 25
+[29-Aug-2011 16:21:10] PHP Warning:  require(/home/soccer/public_html/backup//gestion//lib/share/clases/lib_util.inc.php) [<a href='function.require'>function.require</a>]: failed to open stream: No such file or directory in /home/soccer/public_html/backup/gestion/lib/share/clases/class.inc.php on line 47
+[29-Aug-2011 16:21:10] PHP Fatal error:  require() [<a href='function.require'>function.require</a>]: Failed opening required '/home/soccer/public_html/backup//gestion//lib/share/clases/lib_util.inc.php' (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/soccer/public_html/backup/gestion/lib/share/clases/class.inc.php on line 47
+[29-Aug-2011 16:23:55] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:24:05] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:24:24] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:26:27] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:27:44] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:27:49] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:27:49] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:34:42] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:35:24] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:35:28] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:36:52] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:37:33] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:38:52] PHP Parse error:  syntax error, unexpected '}' in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 898
+[29-Aug-2011 16:39:08] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:39:36] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:40:07] PHP Fatal error:  Cannot redeclare makelistbyarray() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:26) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 62
+[29-Aug-2011 16:40:23] PHP Fatal error:  Cannot redeclare makelistbyarray() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:26) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 62
+[29-Aug-2011 16:41:47] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[29-Aug-2011 16:42:18] PHP Fatal error:  Cannot redeclare getobjeto() (previously declared in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php:21) in /home/soccer/public_html/backup/gestion/lib/share/clases/lib_util.inc.php on line 24
+[30-Aug-2011 09:04:28] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:04:28] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:04:45] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:04:45] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 126
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 126
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 129
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 129
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 129
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 129
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:05:32] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:06:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:06:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:06:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:06:18] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:49:44] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 09:49:44] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:08:26] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:08:26] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:12:30] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:12:30] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:12:30] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:12:30] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 122
+[30-Aug-2011 10:18:38] PHP Parse error:  syntax error, unexpected T_STRING, expecting ',' or ';' in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 70
+[30-Aug-2011 10:19:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 135
+[30-Aug-2011 10:19:21] PHP Notice:  Undefined variable: pubCom in /home/soccer/public_html/lab2/gestion/modulos/home/msgs/msgs.php on line 135
+[11-Apr-2013 07:47:17] PHP Notice:  Undefined index:  iSMuProfTypeKey in /home/soccer/public_html/gestion/modulos/msgs/msgs.php on line 18
+[11-Apr-2013 07:47:17] PHP Notice:  Undefined index:  iSMuIdKey in /home/soccer/public_html/gestion/modulos/msgs/msgs.php on line 19

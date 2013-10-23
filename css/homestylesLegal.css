@@ -1,0 +1,244 @@
+@charset "utf-8";
+/* CSS Document */
+/*#profFields input{
+outline:1px solid blue;
+}*/
+
+
+
+
+#closing{
+float:right;
+position:relative;
+top:-2px;
+background-image:url(../img/spriteKEY.png);
+background-position:0px -79px;
+background-repeat:no-repeat;
+width:17px;
+height:16px;
+cursor:pointer;
+}
+
+#closingHlp{
+float:right;
+position:relative;
+top:-2px;
+background-position:0px -79px;
+background-repeat:no-repeat;
+width:17px;
+height:16px;
+cursor:pointer;
+padding-right: 33px;
+padding-top: 5px;
+font-size: 11px;
+}
+
+#closingHlp:hover{
+color:#006600;
+text-decoration:none;
+}
+
+
+.deleteThis:hover, #closing:hover{
+background-color:#5caa7f;
+}
+.deleteThis2{
+float:right;
+position:relative;
+top:-2px;
+background-image:url(../img/spriteKEY.png);
+background-position:0px -123px;
+background-repeat:no-repeat;
+width:17px;
+height:15px;
+cursor:pointer;
+}
+.deleteThis2:hover{
+background-position:-20px -123px;
+}
+.mCSUB{
+width:390px;
+margin-right:10px;
+}
+.name{
+color:#0c8141;
+font-weight:bold;
+
+cursor:pointer;
+}
+.wrotte{
+text-align:justify;
+}
+
+/*HELP*/
+#help{
+position:absolute;
+width:100%;
+min-height:2000px;
+height:auto;
+z-index:7040;
+display:none;
+background-color:#5a5a5a;
+left:0px;
+}
+#helpsection{
+margin:auto;
+position:relative;
+width:589px;
+display:block;
+height:auto;
+background-color:#FFFFFF;
+}
+#closing{
+margin-right:5px;
+margin-top:5px;
+}
+#tophelp{
+height:111px;
+background-color:#e2e2e2;
+}
+#help h2{
+padding-top:37px;
+margin-left:26px;
+}
+#central{
+width:379px;
+display:block;
+margin:auto;
+height:auto;
+min-height:0px;
+border-left:#b8b8b8 1px solid;
+border-right:#b8b8b8 1px solid;
+padding-top:34px;
+padding-bottom:20px;
+}
+.more{
+float:right;
+position:relative;
+top:-20px;
+margin-right:10px;
+background-image:url(../img/spriteKEY.png);
+background-repeat:no-repeat;
+width:14px;
+height:14px;
+display:block;
+background-position:-111px -37px;
+}
+.helpitem{
+width:418px;
+height:auto;
+min-height:28px;
+position:relative;
+left:-39px;
+margin-bottom:25px;
+/*outline:1px solid;*/
+}
+.holdtitle{
+width:418px;
+display:block;
+border-bottom:#efefef 1px solid;
+cursor:pointer;
+}
+.holdcontent{
+display:none;
+width:315px;
+padding-left:71px;
+padding-right:32px;
+padding-top:14px;
+font-size:11px;
+}
+.holdcontent strong{
+color:#FF0000;
+}
+.helpitem .title{
+width:205px;
+background-color:#9e9e9e;
+height:24px;
+display:block;
+padding-left:47px;
+color:#ffc72e;
+font-weight:bold;
+font-size:18px;
+background-image:url(../img/edgehlp.png);
+background-repeat:no-repeat;
+background-position:right;
+-moz-border-radius:2px 0px 0px 2px;
+}
+.title span{
+background-image:url(../img/spriteKEY.png);
+background-repeat:no-repeat;
+width:17px;
+height:16px;
+display:block;
+position:relative;
+float:left;
+left:-40px;
+background-position: -165px -79px;
+margin-top:5px;
+}
+#_inv{background-position: -148px -79px;}
+#_nedit{background-position: -182px -79px;}
+#_editable{background-position: -199px -79px;}
+#_foll {background-position: -2px -103px;}
+#_edit {background-position: -24px -103px;}
+#_msg{background-position: -194px -103px;}
+#_down {background-position: -47px -103px;}
+#_repo {background-position: -169px -103px;}
+#_vid {background-position: -69px -103px;}
+#_pho {background-position: -120px -103px;}
+#_aud {background-position: -93px -103px;}
+#_not {background-position: -146px -103px;}
+#_multi {background-position: -189px -122px;}
+#_vot {background-position: -137px -120px;}
+#_ale {background-position: -162px -121px;}
+.visibilityVotes{
+float:right;
+margin-right:12px;
+}
+.visibilityFollows{
+float:right;
+margin-right:12px;
+margin-bottom:5px;
+display:block;
+}
+/*HEADER-LOGO*/
+#header h1{display:none;}
+							
+/*NEWS-FEED*/
+#news{
+color:#000000;
+font-size:11px;
+line-height:18px;
+}
+#news span{
+padding-left:5px;
+}
+#news div{
+width:40px;
+height:20px;
+background-color:#c3c3c3;
+float:right;
+}
+#mobil{
+display:block;
+width:8px;
+height:20px;
+background-image:url(../img/spriteKEY.png);
+background-repeat:no-repeat;
+background-position:-58px -4px;
+float:left;
+margin-left:3px;
+cursor:pointer;
+}
+#world{
+display:block;
+width:12px;
+height:20px;
+background-image:url(../img/spriteKEY.png);
+background-repeat:no-repeat;
+background-position:-70px -4px;
+float:left;
+margin-left:3px;
+cursor:pointer;
+}
+/*MENU RIGHT TOP*/

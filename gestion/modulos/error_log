@@ -1,0 +1,1 @@
+[11-Apr-2013 07:46:07] PHP Fatal error:  Call to undefined function  generateselect() in /home/soccer/public_html/gestion/modulos/tprgtmenu.php on line 105
